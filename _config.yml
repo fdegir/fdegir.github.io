@@ -2,7 +2,7 @@ title: fdegir
 description:
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-dinky
+theme: minima
 
 gems:
   - jekyll-mentions
