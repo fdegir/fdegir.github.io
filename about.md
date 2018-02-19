@@ -11,15 +11,14 @@ as [OPNFV](https://www.opnfv.org) and [OpenStack](https://www.openstack.org).
 
 I experiment with many different tools and doing things either as part of my job or just for fun and keep notes while
 doing that. As you can guess, the notes tend to become a problem when they increase in number even though I try to keep
-them in an organized way in different ways. (Evernote, OneNote, Git, etc.)
+them organized in different ways. (Evernote, OneNote, Git, etc.)
 
 Finally, I decided to start moving my notes to github and interested in trying out github pages due to the ease of setup and
 more importantly the possibility of using markdown.
 
 It obviously didn't stop there and I started adding list of other stuff such as conference talks, articles, and various
-engagements.
-
-The views expressed on this website are my own and do not reflect the view of my employer and/or the open source communities I am involved in.
+engagements. My only hope is that I am helping someone somewhere who spent hours for figuring something out which I might already have
+a note on this site.
 
 ## Conference Talks, Webinars, Panels
 
@@ -66,3 +65,7 @@ The views expressed on this website are my own and do not reflect the view of my
 | Track Chair, Infrastructure & DevOps | [OPNFV Summit Beijing](https://www.opnfv.org/opnfv-summit-2017-event-recap)
 | Track Chair, NFV                     | [OpenStack Summit Boston](https://www.openstack.org/summit/boston-2017/)
 | MSc Thesis Supervisor                | [Investigating the Possibility of an Active/Active Highly Available Jenkins](https://www.diva-portal.org/smash/get/diva2:647472/FULLTEXT01.pdf)
+
+## Disclaimer
+
+The views expressed on this website are my own and do not reflect the view of my employer and/or the open source communities I am involved in.
