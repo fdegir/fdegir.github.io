@@ -24,6 +24,9 @@ a note on this site.
 
 | Title                                                                               | Event                 | Date           | Slides | Videos
 | :---                                                                                | :---                  | :---           | :---   | :---
+| Lab as a Service: Compose Your Cloud Automatically with Few Clicks                  | Open Networking Summit| March 2018     | TBD    | TBD
+| Cross Community Infra/CICD                                                          | LFN Developer Forum@ONS| March 2018    | TBD    | TBD
+| Panel: Lessons Learned: Integration, From the Cradle to the Stage                   | LFN Developer Forum@ONS| March.   2018  | TBD    | TBD
 | Deploying OpenStack in the OPNFV community: Cross Community CI                      | FOSDEM 2018           | February 2018  | TBD    | TBD
 | Cross Community CI                                                                  | OPNFV Plugfest        | December 2017  | TBD    | TBD
 | Webinar: The New Networking: DevOps, Cross-project Integration, and XCI             | LF Webinars           | November 2017  | TBD    | TBD
