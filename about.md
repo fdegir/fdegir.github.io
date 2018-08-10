@@ -24,10 +24,14 @@ a note on this site.
 
 | Title                                                                               | Event                 | Date           | Slides | Videos
 | :---                                                                                | :---                  | :---           | :---   | :---
+| Keynote: Continuous Delivery Across Communities                                     | OpenDev               | May 2018       | TBD    | TBD
+| We Came Together, Now What?                                                         | OpenDev               | May 2018       | TBD    | TBD
+| OpenCI: What, Why, How?                                                             | OpenDev               | May 2018       | TBD    | TBD
+| Lab as a Service: Compose Your Cloud Automatically with Few Clicks                  | OpenStack Summit      | May 2018       | TBD    | TBD
+| Lessons Learned: Integration, From the Cradle to the Stage                          | LFN Dev Forum         | March 2018     | TBD    | TBD
+| Cross Community Infra/CICD                                                          | LFN Dev Forum         | March 2018     | TBD    | TBD
 | Lab as a Service: Compose Your Cloud Automatically with Few Clicks                  | Open Networking Summit| March 2018     | TBD    | TBD
-| Cross Community Infra/CICD                                                          | LFN Developer Forum@ONS| March 2018    | TBD    | TBD
-| Panel: Lessons Learned: Integration, From the Cradle to the Stage                   | LFN Developer Forum@ONS| March 2018    | TBD    | TBD
-| Deploying OpenStack in the OPNFV community: Cross Community CI                      | FOSDEM 2018           | February 2018  | TBD    | TBD
+| Integrating Cloud and Container Projects in the OPNFV community: Cross Community CI | FOSDEM 2018           | February 2018  | TBD    | TBD
 | Cross Community CI                                                                  | OPNFV Plugfest        | December 2017  | TBD    | TBD
 | Webinar: The New Networking: DevOps, Cross-project Integration, and XCI             | LF Webinars           | November 2017  | TBD    | TBD
 | Bringing Open Source Communities Together: XCI                                      | OpenStack Summit      | November 2017  | TBD    | TBD
@@ -64,6 +68,7 @@ a note on this site.
 
 | What                                 | Where
 | :---                                 | :---
+| Track Chair, CI/CD                   | [OpenStack Summit Berlin](https://www.openstack.org/summit/berlin-2018/)
 | Member of the Programming Committee  | [OpenDev 2018](http://www.opendevconf.com/)
 | Track Chair, Infrastructure & DevOps | [OPNFV Summit Beijing](https://www.opnfv.org/opnfv-summit-2017-event-recap)
 | Track Chair, NFV                     | [OpenStack Summit Boston](https://www.openstack.org/summit/boston-2017/)
