@@ -5,9 +5,9 @@ categories: about
 permalink: /about/
 ---
 
-I am working as a Principal Developer at [Ericsson](https://www.ericsson.com), Sweden. My interests include infrastructure, automation, and CI/CD.
-Apart from being involved in internal projects, I contribute to different open source projects in varying levels such
-as [OPNFV](https://www.opnfv.org) and [OpenStack](https://www.openstack.org).
+I am working as a Principal Developer at [Ericsson Software Technology](https://www.est.tech), Sweden. My interests
+include infrastructure, automation, and CI/CD. Apart from being involved in internal projects, I contribute to different
+open source projects in varying levels such as [OPNFV](https://www.opnfv.org) and [OpenStack](https://www.openstack.org).
 
 I experiment with many different tools and doing things either as part of my job or just for fun and keep notes while
 doing that. As you can guess, the notes tend to become a problem when they increase in number even though I try to keep
@@ -22,40 +22,44 @@ a note on this site.
 
 ## Conference Talks, Webinars, Panels
 
-| Title                                                                               | Event                 | Date           | Slides | Videos
-| :---                                                                                | :---                  | :---           | :---   | :---
-| Keynote: Continuous Delivery Across Communities                                     | OpenDev               | May 2018       | TBD    | TBD
-| We Came Together, Now What?                                                         | OpenDev               | May 2018       | TBD    | TBD
-| OpenCI: What, Why, How?                                                             | OpenDev               | May 2018       | TBD    | TBD
-| Lab as a Service: Compose Your Cloud Automatically with Few Clicks                  | OpenStack Summit      | May 2018       | TBD    | TBD
-| Lessons Learned: Integration, From the Cradle to the Stage                          | LFN Dev Forum         | March 2018     | TBD    | TBD
-| Cross Community Infra/CICD                                                          | LFN Dev Forum         | March 2018     | TBD    | TBD
-| Lab as a Service: Compose Your Cloud Automatically with Few Clicks                  | Open Networking Summit| March 2018     | TBD    | TBD
-| Integrating Cloud and Container Projects in the OPNFV community: Cross Community CI | FOSDEM 2018           | February 2018  | TBD    | TBD
-| Cross Community CI                                                                  | OPNFV Plugfest        | December 2017  | TBD    | TBD
-| Webinar: The New Networking: DevOps, Cross-project Integration, and XCI             | LF Webinars           | November 2017  | TBD    | TBD
-| Bringing Open Source Communities Together: XCI                                      | OpenStack Summit      | November 2017  | TBD    | TBD
-| Bringing Open Source Communities Together: XCI                                      | Open Source Summit    | October 2017   | TBD    | TBD
-| Composing your cloud, learn how to automate deployment of your complete cloud stack | OpenStack Days Nordic | October 2017   | TBD    | TBD
-| Bringing Open Source Communities Together: Cross Community CI                       | OpenStack Days Nordic | October 2017   | TBD    | TBD
-| Cross Community CI & Lab as a Service                                               | OpenDaylight DDF      | October 2017   | TBD    | TBD
-| Cross Community CI ETSI NFV TST September 2017                                      | ETSI NFV#19           | September 2017 | TBD    | TBD
-| Being Brave: Deploying OpenStack from Master                                        | OPNFV Summit          | June 2017      | TBD    | TBD
-| Improving POD Usage in Labs, CI and Testing                                         | OPNFV Summit          | June 2017      | TBD    | TBD
-| OPNFV XCI                                                                           | OPNFV Summit          | June 2017      | TBD    | TBD
-| Bringing Dynamism to OPNFV                                                          | OPNFV Summit          | June 2017      | TBD    | TBD
-| OPNFV Testing + OPNFV Pharos + OPNFV XCI                                            | OpenStack Summit      | May 2017       | TBD    | TBD
-| OPNFV XCI and Infrastructure                                                        | OPNFV Hackfest        | April 2017     | TBD    | TBD
-| How Automated CI/CD Enables Network Provisioning                                    | Open Networking Summit| April 2017     | TBD    | TBD
-| OPNFV CI and Challenges                                                             | CODE-STHLM            | November 2016  | TBD    | TBD
-| The Benefits of E2E Integration between open Source Communities Using 3rd Party CI  | OpenStack Summit      | October 2016   | TBD    | TBD
-| CI/CD & DevOps                                                                      | OPNFV Summit          | June 2016      | TBD    | TBD
-| Multisite OPNFV Testing Challenges                                                  | OPNFV Summit          | June 2016      | TBD    | TBD
-| CI/CD & DevOps Panel                                                                | OPNFV Summit          | June 2016      | TBD    | TBD
-| Diary of an Infra Guy                                                               | OPNFV Summit          | November 2015  | TBD    | TBD
-| OPNFV Infrastructure Projects                                                       | OPNFV Summit          | November 2015  | TBD    | TBD
-| Integrate, Deploy, and Test using OPNFV Labs                                        | OPNFV Summit          | November 2015  | TBD    | TBD
-| OPNFV Continuous Integration                                                        | OpenStack Summit      | May 2015       | TBD    | TBD
+| Title                                                                               | Event                         | Date           | Slides | Videos
+| :---                                                                                | :---                          | :---           | :---   | :---
+| Evolving CI/CD in Open Source                                                       | Spinnaker Summit, Seattle     | October 2018   | TBD    | TBD
+| Panel: The Growing Spinnaker Ecosystem                                              | Spinnaker Summit, Seattle     | October 2018   | TBD    | TBD
+| Creating Synergies: Sharing and Reusing Results of CI/CD System Between Communities | Open Networking Summit Europe | September 2018 | TBD    | TBD
+| Evolving CI/CD in Open Source Networking                                            | Open Networking Summit Europe | September 2018 | TBD    | TBD
+| Keynote: Continuous Delivery Across Communities                                     | OpenDev, Vancouver            | May 2018       | TBD    | TBD
+| We Came Together, Now What?                                                         | OpenDev, Vancouver            | May 2018       | TBD    | TBD
+| OpenCI: What, Why, How?                                                             | OpenDev, Vancouver            | May 2018       | TBD    | TBD
+| Lab as a Service: Compose Your Cloud Automatically with Few Clicks                  | OpenStack Summit, Vancouver   | May 2018       | TBD    | TBD
+| Lessons Learned: Integration, From the Cradle to the Stage                          | LFN Dev Forum, Los Angeles    | March 2018     | TBD    | TBD
+| Cross Community Infra/CICD                                                          | LFN Dev Forum, Los Angeles    | March 2018     | TBD    | TBD
+| Lab as a Service: Compose Your Cloud Automatically with Few Clicks                  | Open Networking Summit NA     | March 2018     | TBD    | TBD
+| Integrating Cloud and Container Projects in the OPNFV community: Cross Community CI | FOSDEM 2018, Brussels         | February 2018  | TBD    | TBD
+| Cross Community CI                                                                  | OPNFV Plugfest, Portland      | December 2017  | TBD    | TBD
+| Webinar: The New Networking: DevOps, Cross-project Integration, and XCI             | LF Webinars                   | November 2017  | TBD    | TBD
+| Bringing Open Source Communities Together: XCI                                      | OpenStack Summit, Sydney      | November 2017  | TBD    | TBD
+| Bringing Open Source Communities Together: XCI                                      | Open Source Summit, Prague    | October 2017   | TBD    | TBD
+| Composing your cloud, learn how to automate deployment of your complete cloud stack | OpenStack Days Nordic         | October 2017   | TBD    | TBD
+| Bringing Open Source Communities Together: Cross Community CI                       | OpenStack Days Nordic         | October 2017   | TBD    | TBD
+| Cross Community CI & Lab as a Service                                               | OpenDaylight DDF, Santa Clara | October 2017   | TBD    | TBD
+| Cross Community CI ETSI NFV TST                                                     | ETSI NFV#19, Denver           | September 2017 | TBD    | TBD
+| Being Brave: Deploying OpenStack from Master                                        | OPNFV Summit, Beijing         | June 2017      | TBD    | TBD
+| Improving POD Usage in Labs, CI and Testing                                         | OPNFV Summit, Beijing         | June 2017      | TBD    | TBD
+| OPNFV XCI                                                                           | OPNFV Summit, Beijing         | June 2017      | TBD    | TBD
+| Bringing Dynamism to OPNFV                                                          | OPNFV Summit, Beijing         | June 2017      | TBD    | TBD
+| OPNFV Testing + OPNFV Pharos + OPNFV XCI                                            | OpenStack Summit, Boston      | May 2017       | TBD    | TBD
+| OPNFV XCI and Infrastructure                                                        | OPNFV Hackfest, Paris         | April 2017     | TBD    | TBD
+| How Automated CI/CD Enables Network Provisioning                                    | Open Networking Summit, NA    | April 2017     | TBD    | TBD
+| OPNFV CI and Challenges                                                             | CODE-STHLM, Stockholm         | November 2016  | TBD    | TBD
+| The Benefits of E2E Integration between open Source Communities Using 3rd Party CI  | OpenStack Summit, Barcelona   | October 2016   | TBD    | TBD
+| CI/CD & DevOps                                                                      | OPNFV Summit, Berlin          | June 2016      | TBD    | TBD
+| Multisite OPNFV Testing Challenges                                                  | OPNFV Summit, Berlin          | June 2016      | TBD    | TBD
+| Panel: CI/CD & DevOps                                                               | OPNFV Summit, Berlin          | June 2016      | TBD    | TBD
+| Diary of an Infra Guy                                                               | OPNFV Summit, San Francisco   | November 2015  | TBD    | TBD
+| OPNFV Infrastructure Projects                                                       | OPNFV Summit, San Francisco   | November 2015  | TBD    | TBD
+| Integrate, Deploy, and Test using OPNFV Labs                                        | OPNFV Summit, San Francisco   | November 2015  | TBD    | TBD
+| OPNFV Continuous Integration                                                        | OpenStack Summit, Vancouver   | May 2015       | TBD    | TBD
 
 ## Articles, Blog Posts
 
