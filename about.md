@@ -9,17 +9,17 @@ I am working as a Principal Developer at [Ericsson Software Technology](https://
 My interests include automation, CI/CD, DevOps, and Infrastructure and currently involved in several large scale
 CI/CD initiatives both internally and within open source.
 
-I served as a committer-at-large member in the [OPNFV](https://www.opnfv.org) Technical Steering Committee between
+I served as a committer-at-large member in [OPNFV](https://www.opnfv.org) Technical Steering Committee between
 2016-2018 and I am currently a member of [Nordix](https://www.nordix.org/) Technical Committee.
 
 The initiatives I take part in aim to establish CI/CD principles and practices in the industry and across open
 source. [OPNFV Cross Community CI (XCI)](https://opnfv-releng-xci.readthedocs.io) Project started within OPNFV
-community durin 2016 which I am the creator and technical lead of. XCI helped us to  pave the way for broader
+community during 2016 which I am the creator and technical lead of. XCI helped us to  pave the way for broader
 collaboration across different open source communities in CI/CD and Infrastructure area. This resulted in the
 creation of a new community named [OpenCI](https://openci.io/) in April 2018 which I am the co-founder of.
 
-In following sections, you will find the talks I've given, webinars, panels and interviews I've taken part of
-and articles and blog posts I contributed to.
+In following sections, you will find the list of talks I've given, webinars, panels and interviews I've taken
+part of and articles and blog posts I contributed to.
 
 ## Conference Talks, Webinars, Panels
 
