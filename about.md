@@ -64,9 +64,11 @@ part of and articles and blog posts I contributed to.
 
 ## Articles, Blog Posts
 
-| Title                                                                   | Date       | Link
-| :---                                                                    | :---       | :---
+| Title                                                                   | Date         | Link
+| :---                                                                    | :---         | :---
+| OpenCI Whitepaper: Evolving CI/CD in Open Source                        | In progress  | [Whitepaper (Draft)](https://docs.google.com/document/d/1LpeXnQqD2Hwmu2Pap-FFEFfuXRQGaYfwV00W1OvPEIU/edit#)
 | XCI: How OPNFV Slashed Upstream Integration from Months to Days         | October 2017 | [OPNFV Website](https://www.opnfv.org/blog/2017/10/19/xci-how-opnfv-slashed-upstream-integration-from-months-to-days)
+| XCI Solution Brief                                                      | August 2017  | [XCI Solution Brief](https://www.opnfv.org/wp-content/uploads/sites/12/2017/08/OPNFV_SolutionBrief_XCI_080617.pdf)
 | DevOps: fueling the evolution toward 5G networks                        | April 2017   | [Ericsson Technology Review](https://www.ericsson.com/en/publications/ericsson-technology-review/archive/2017/devops-fueling-the-evolution-toward-5g-networks)
 
 ## Other
