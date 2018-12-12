@@ -5,20 +5,21 @@ categories: about
 permalink: /about/
 ---
 
-I am working as a Principal Developer at [Ericsson Software Technology](https://www.est.tech), Sweden. My interests
-include infrastructure, automation, and CI/CD. Apart from being involved in internal projects, I contribute to different
-open source projects in varying levels such as [OPNFV](https://www.opnfv.org) and [OpenStack](https://www.openstack.org).
+I am working as a Principal Developer at [Ericsson Software Technology](https://www.est.tech) in Stockholm, Sweden.
+My interests include automation, CI/CD, DevOps, and Infrastructure and currently involved in several large scale
+CI/CD initiatives both internally and within open source.
 
-I experiment with many different tools and doing things either as part of my job or just for fun and keep notes while
-doing that. As you can guess, the notes tend to become a problem when they increase in number even though I try to keep
-them organized in different ways. (Evernote, OneNote, Git, etc.)
+I served as a committer-at-large member in the [OPNFV](https://www.opnfv.org) Technical Steering Committee between
+2016-2018 and I am currently a member of [Nordix](https://www.nordix.org/) Technical Committee.
 
-Finally, I decided to start moving my notes to github and interested in trying out github pages due to the ease of setup and
-more importantly the possibility of using markdown.
+The initiatives I take part in aim to establish CI/CD principles and practices in the industry and across open
+source. [OPNFV Cross Community CI (XCI)](https://opnfv-releng-xci.readthedocs.io) Project started within OPNFV
+community durin 2016 which I am the creator and technical lead of. XCI helped us to  pave the way for broader
+collaboration across different open source communities in CI/CD and Infrastructure area. This resulted in the
+creation of a new community named [OpenCI](https://openci.io/) in April 2018 which I am the co-founder of.
 
-It obviously didn't stop there and I started adding list of other stuff such as conference talks, articles, and various
-engagements. My only hope is that I am helping someone somewhere who spent hours for figuring something out which I might already have
-a note on this site.
+In following sections, you will find the talks I've given, webinars, panels and interviews I've taken part of
+and articles and blog posts I contributed to.
 
 ## Conference Talks, Webinars, Panels
 
