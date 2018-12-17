@@ -62,6 +62,16 @@ part of and articles and blog posts I contributed to.
 | Integrate, Deploy, and Test using OPNFV Labs                                        | OPNFV Summit, San Francisco   | November 2015  | TBD    | TBD
 | OPNFV Continuous Integration                                                        | OpenStack Summit, Vancouver   | May 2015       | TBD    | TBD
 
+## Interviews
+
+| Title                                          | Event                         | Date           | Video
+| :---                                           | :---                          | :---           | :---
+| Telecom TV: OpenCI                             | OpenStack Summit, Vancouver   | May 2018       | [Link](https://www.youtube.com/watch?v=pVf_oWQTwIQ)
+| RDO Community: Using Zuul outside of OpenStack | OpenStack PTG, Dublin         | March 2018     | [Link](https://www.youtube.com/watch?v=affAJm9StXg)
+| RDO Community: OpenStack and OPNFV             | OpenStack PTG, Denver         | September 2017 | [Link](https://www.youtube.com/watch?v=Y8k5s1_bI1Y)
+| Linux Foundation: OPNFV XCI                    | OPNFV Summit, Beijing         | July 2017      | [Link](https://www.youtube.com/watch?v=0X8nMVf48DM)
+| Telecom TV: Network Functions Virtualization   | OpenStack Summit, Boston      | May 2017       | [Link](https://www.youtube.com/watch?v=KD7UaRWN-Gs)
+
 ## Articles, Blog Posts
 
 | Title                                                                   | Date         | Link
