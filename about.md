@@ -25,6 +25,8 @@ part of and articles and blog posts I contributed to.
 
 | Title                                                                               | Event                         | Date           | Videos/Slides
 | :---                                                                                | :---                          | :---           | :---
+| CI/CD as Enabler to Building Next Generation Networks                               | Open Infrastructure Summit, Denver     | May 2019   | TBD
+| Digital Transformation in Finance Industry                                          | Open Infrastructure Summit, Denver     | May 2019   | TBD
 | Evolving CI/CD in Open Source                                                       | Spinnaker Summit, Seattle     | October 2018   | [Slides](https://docs.google.com/presentation/d/1SCtDqrBhoorNheexYoHtOW_P7OOTxKHB5oRHt1mSTWU/edit?usp=sharing)
 | Panel: The Growing Spinnaker Ecosystem                                              | Spinnaker Summit, Seattle     | October 2018   | [Video](https://www.youtube.com/watch?v=C2TeQlyWGmc)
 | Creating Synergies: Sharing and Reusing Results of CI/CD System Between Communities | Open Networking Summit Europe | September 2018 | [Slides](https://docs.google.com/presentation/d/1TNG8xEhtKt5B54Phw_5rqM4jsNBjwEQgDsP-MwkwpTg/edit?usp=sharing)
@@ -85,6 +87,7 @@ part of and articles and blog posts I contributed to.
 
 | What                                 | Where
 | :---                                 | :---
+| Track Chair, CI/CD                   | [Open Infrastructure Summit Denver](https://www.openstack.org/summit/denver-2019/)
 | Track Chair, CI/CD                   | [OpenStack Summit Berlin](https://www.openstack.org/summit/berlin-2018/)
 | Member of the Programming Committee  | [OpenDev 2018](http://www.opendevconf.com/)
 | Track Chair, Infrastructure & DevOps | [OPNFV Summit Beijing](https://www.opnfv.org/opnfv-summit-2017-event-recap)
