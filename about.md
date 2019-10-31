@@ -15,8 +15,11 @@ I served as a committer-at-large member in [OPNFV](https://www.opnfv.org) Techni
 The initiatives I take part in aim to establish CI/CD principles and practices in the industry and across open
 source. [OPNFV Cross Community CI (XCI)](https://opnfv-releng-xci.readthedocs.io) Project started within OPNFV
 community during 2016 which I am the creator and technical lead of. XCI helped us to  pave the way for broader
-collaboration across different open source communities in CI/CD and Infrastructure area. This resulted in the
-creation of a new community named [OpenCI](https://openci.io/) in April 2018 which I am the co-founder of.
+collaboration across different open source communities in CI/CD and Infrastructure area. This resulted in an
+initiative named [OpenCI](https://openci.io/) in April 2018. I am co-founder of this initiative.
+
+I am currently involved in [Continuous Delivery Foundation (CDF)](https://cd.foundation/) as contributor
+to Technical Oversight Committee (TOC).
 
 In following sections, you will find the list of talks I've given, webinars, panels and interviews I've taken
 part of and articles and blog posts I contributed to.
@@ -87,11 +90,12 @@ part of and articles and blog posts I contributed to.
 
 | What                                 | Where
 | :---                                 | :---
-| Track Chair, CI/CD                   | [Open Infrastructure Summit Denver](https://www.openstack.org/summit/denver-2019/)
-| Track Chair, CI/CD                   | [OpenStack Summit Berlin](https://www.openstack.org/summit/berlin-2018/)
-| Member of the Programming Committee  | [OpenDev 2018](http://www.opendevconf.com/)
-| Track Chair, Infrastructure & DevOps | [OPNFV Summit Beijing](https://www.opnfv.org/opnfv-summit-2017-event-recap)
-| Track Chair, NFV                     | [OpenStack Summit Boston](https://www.openstack.org/summit/boston-2017/)
+| Program Committee                    | [Continuous Delivery Summit, KubeCon North America, 2019](https://cd.foundation/announcement/2019/09/30/join-us-at-continuous-delivery-summit/)
+| Track Chair, CI/CD                   | [Open Infrastructure Summit Denver, 2019](https://www.openstack.org/summit/denver-2019/)
+| Track Chair, CI/CD                   | [OpenStack Summit Berlin, 2018](https://www.openstack.org/summit/berlin-2018/)
+| Member of the Programming Committee  | [OpenDev, 2018](http://www.opendevconf.com/)
+| Track Chair, Infrastructure & DevOps | [OPNFV Summit Beijing, 2017](https://www.opnfv.org/opnfv-summit-2017-event-recap)
+| Track Chair, NFV                     | [OpenStack Summit Boston, 2017](https://www.openstack.org/summit/boston-2017/)
 | MSc Thesis Supervisor                | [Investigating the Possibility of an Active/Active Highly Available Jenkins](https://www.diva-portal.org/smash/get/diva2:647472/FULLTEXT01.pdf)
 
 ## Disclaimer
