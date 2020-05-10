@@ -9,17 +9,22 @@ I am working as a Principal Developer at [Ericsson Software Technology](https://
 My interests include automation, CI/CD, DevOps, and Infrastructure and currently involved in several large scale
 CI/CD initiatives both internally and within open source.
 
-I served as a committer-at-large member in [OPNFV](https://www.opnfv.org) Technical Steering Committee between
-2016-2018 and I am currently a member of [Nordix](https://www.nordix.org/) Technical Committee.
+I served as a committer-at-large member in [OPNFV](https://www.opnfv.org) Technical Steering Committee (TSC) between
+2016-2018 and I am currently a member of [Nordix](https://www.nordix.org/) Technical Committee. (TC)
 
 The initiatives I take part in aim to establish CI/CD principles and practices in the industry and across open
 source. [OPNFV Cross Community CI (XCI)](https://opnfv-releng-xci.readthedocs.io) Project started within OPNFV
-community during 2016 which I am the creator and technical lead of. XCI helped us to  pave the way for broader
+community during 2016 which I was the creator and technical lead of. XCI helped us to  pave the way for broader
 collaboration across different open source communities in CI/CD and Infrastructure area. This resulted in an
 initiative named [OpenCI](https://openci.io/) in April 2018. I am co-founder of this initiative.
 
-I am currently involved in [Continuous Delivery Foundation (CDF)](https://cd.foundation/) as contributor
-to Technical Oversight Committee (TOC).
+Following the work we have been doing within the industry and across various open source communities, we
+[proposed](https://lists.cd.foundation/g/cdf-toc/topic/60607236) the formation of Special Interest Group (SIG)
+Interoperability to [Continuous Delivery Foundation (CDF)](https://cd.foundation/). The SIG was
+[approved](https://cd.foundation/blog/2020/01/21/cd-foundation-technical-oversight-committee-approves-interoperability-sig/)
+during January 2020 by CDF Technical Oversight Committee (TOC). I currently serve as the chair to the SIG.
+In addition to my involvement in [SIG Interoperability](https://github.com/cdfoundation/sig-Interoperability),
+I am a contributor to CDF TOC.
 
 In following sections, you will find the list of talks I've given, webinars, panels and interviews I've taken
 part of and articles and blog posts I contributed to.
@@ -81,7 +86,8 @@ part of and articles and blog posts I contributed to.
 
 | Title                                                                   | Date         | Link
 | :---                                                                    | :---         | :---
-| OpenCI Whitepaper: Evolving CI/CD in Open Source                        | In progress  | [Whitepaper (Draft)](https://docs.google.com/document/d/1LpeXnQqD2Hwmu2Pap-FFEFfuXRQGaYfwV00W1OvPEIU/edit#)
+| How the CDF is Establishing a Shared Vocabulary for the Industry        | April 2020   | [CD Foundation Newsletter Article](https://cd.foundation/blog/2020/04/24/how-the-cdf-is-establishing-a-shared-vocabulary-for-the-industry/)
+| CD Foundation TOC Approves Interoperability Special Interest Group      | January 2020 | [CD Foundating Blog Post](https://cd.foundation/blog/2020/01/21/cd-foundation-technical-oversight-committee-approves-interoperability-sig/)
 | XCI: How OPNFV Slashed Upstream Integration from Months to Days         | October 2017 | [OPNFV Website](https://www.opnfv.org/blog/2017/10/19/xci-how-opnfv-slashed-upstream-integration-from-months-to-days)
 | XCI Solution Brief                                                      | August 2017  | [XCI Solution Brief](https://www.opnfv.org/wp-content/uploads/sites/12/2017/08/OPNFV_SolutionBrief_XCI_080617.pdf)
 | DevOps: fueling the evolution toward 5G networks                        | April 2017   | [Ericsson Technology Review](https://www.ericsson.com/en/publications/ericsson-technology-review/archive/2017/devops-fueling-the-evolution-toward-5g-networks)
@@ -90,6 +96,7 @@ part of and articles and blog posts I contributed to.
 
 | What                                 | Where
 | :---                                 | :---
+| Program Committee                    | [Continuous Delivery Summit, KubeCon Europe, 2020](https://events.linuxfoundation.org/continuous-delivery-summit/)
 | Program Committee                    | [Continuous Delivery Summit, KubeCon North America, 2019](https://cd.foundation/announcement/2019/09/30/join-us-at-continuous-delivery-summit/)
 | Track Chair, CI/CD                   | [Open Infrastructure Summit Denver, 2019](https://www.openstack.org/summit/denver-2019/)
 | Track Chair, CI/CD                   | [OpenStack Summit Berlin, 2018](https://www.openstack.org/summit/berlin-2018/)
