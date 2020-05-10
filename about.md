@@ -48,7 +48,6 @@ part of and articles and blog posts I contributed to.
 | Lab as a Service: Compose Your Cloud Automatically with Few Clicks                  | Open Networking Summit NA         | March 2018     | [Slides](https://docs.google.com/presentation/d/1wiAAJz4ERkxAizuPU3CeB8yum5plu1RBhGVNifZ6aC0/edit#slide=id.g2927690177_2_6)
 | Integrating Cloud and Container Projects in the OPNFV community: Cross Community CI | FOSDEM 2018, Brussels             | February 2018  | [Video](https://www.youtube.com/watch?v=hmfIczDJe5w)
 | Cross Community CI                                                                  | OPNFV Plugfest, Portland          | December 2017  | N/A
-| Webinar: The New Networking: DevOps, Cross-project Integration, and XCI             | LF Webinars                       | November 2017  | [Video](https://t.co/IZF9Sf1nIR)
 | Bringing Open Source Communities Together: XCI                                      | OpenStack Summit, Sydney          | November 2017  | [Video](https://www.youtube.com/watch?v=KLkWMcllUu8)
 | Bringing Open Source Communities Together: XCI                                      | Open Source Summit, Prague        | October 2017   | N/A
 | Composing your cloud, learn how to automate deployment of your complete cloud stack | OpenStack Days Nordic             | October 2017   | N/A
@@ -72,15 +71,16 @@ part of and articles and blog posts I contributed to.
 | Integrate, Deploy, and Test using OPNFV Labs                                        | OPNFV Summit, San Francisco       | November 2015  | N/A
 | OPNFV Continuous Integration                                                        | OpenStack Summit, Vancouver       | May 2015       | N/A
 
-## Interviews
+## Interviews, Webinars, Podcasts
 
-| Title                                          | Event                         | Date           | Video
-| :---                                           | :---                          | :---           | :---
-| Telecom TV: OpenCI                             | OpenStack Summit, Vancouver   | May 2018       | [Link](https://www.youtube.com/watch?v=pVf_oWQTwIQ)
-| RDO Community: Using Zuul outside of OpenStack | OpenStack PTG, Dublin         | March 2018     | [Link](https://www.youtube.com/watch?v=affAJm9StXg)
-| RDO Community: OpenStack and OPNFV             | OpenStack PTG, Denver         | September 2017 | [Link](https://www.youtube.com/watch?v=Y8k5s1_bI1Y)
-| Linux Foundation: OPNFV XCI                    | OPNFV Summit, Beijing         | July 2017      | [Link](https://www.youtube.com/watch?v=0X8nMVf48DM)
-| Telecom TV: Network Functions Virtualization   | OpenStack Summit, Boston      | May 2017       | [Link](https://www.youtube.com/watch?v=KD7UaRWN-Gs)
+| Title                                                                  | Event                         | Date           | Video
+| :---                                                                   | :---                          | :---           | :---
+| Telecom TV: OpenCI                                                     | OpenStack Summit, Vancouver   | May 2018       | [Link](https://www.youtube.com/watch?v=pVf_oWQTwIQ)
+| RDO Community: Using Zuul outside of OpenStack                         | OpenStack PTG, Dublin         | March 2018     | [Link](https://www.youtube.com/watch?v=affAJm9StXg)
+| RDO Community: OpenStack and OPNFV                                     | OpenStack PTG, Denver         | September 2017 | [Link](https://www.youtube.com/watch?v=Y8k5s1_bI1Y)
+| Linux Foundation: OPNFV XCI                                            | OPNFV Summit, Beijing         | July 2017      | [Link](https://www.youtube.com/watch?v=0X8nMVf48DM)
+| Telecom TV: Network Functions Virtualization                           | OpenStack Summit, Boston      | May 2017       | [Link](https://www.youtube.com/watch?v=KD7UaRWN-Gs)
+| Webinar: The New Networking: DevOps, Cross-project Integration, and XCI| LF Webinars                   | November 2017  | [Video](https://t.co/IZF9Sf1nIR)
 
 ## Articles, Blog Posts
 
