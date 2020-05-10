@@ -73,14 +73,14 @@ part of and articles and blog posts I contributed to.
 
 ## Interviews, Webinars, Podcasts
 
-| Title                                                                  | Event                         | Date           | Video
-| :---                                                                   | :---                          | :---           | :---
-| Telecom TV: OpenCI                                                     | OpenStack Summit, Vancouver   | May 2018       | [Link](https://www.youtube.com/watch?v=pVf_oWQTwIQ)
-| RDO Community: Using Zuul outside of OpenStack                         | OpenStack PTG, Dublin         | March 2018     | [Link](https://www.youtube.com/watch?v=affAJm9StXg)
-| RDO Community: OpenStack and OPNFV                                     | OpenStack PTG, Denver         | September 2017 | [Link](https://www.youtube.com/watch?v=Y8k5s1_bI1Y)
-| Linux Foundation: OPNFV XCI                                            | OPNFV Summit, Beijing         | July 2017      | [Link](https://www.youtube.com/watch?v=0X8nMVf48DM)
-| Telecom TV: Network Functions Virtualization                           | OpenStack Summit, Boston      | May 2017       | [Link](https://www.youtube.com/watch?v=KD7UaRWN-Gs)
-| Webinar: The New Networking: DevOps, Cross-project Integration, and XCI| LF Webinars                   | November 2017  | [Video](https://t.co/IZF9Sf1nIR)
+| Title                                                           | Event                         | Date           | Video
+| :---                                                            | :---                          | :---           | :---
+| Telecom TV: OpenCI                                              | OpenStack Summit, Vancouver   | May 2018       | [Link](https://www.youtube.com/watch?v=pVf_oWQTwIQ)
+| RDO Community: Using Zuul outside of OpenStack                  | OpenStack PTG, Dublin         | March 2018     | [Link](https://www.youtube.com/watch?v=affAJm9StXg)
+| RDO Community: OpenStack and OPNFV                              | OpenStack PTG, Denver         | September 2017 | [Link](https://www.youtube.com/watch?v=Y8k5s1_bI1Y)
+| Linux Foundation: OPNFV XCI                                     | OPNFV Summit, Beijing         | July 2017      | [Link](https://www.youtube.com/watch?v=0X8nMVf48DM)
+| Telecom TV: Network Functions Virtualization                    | OpenStack Summit, Boston      | May 2017       | [Link](https://www.youtube.com/watch?v=KD7UaRWN-Gs)
+| The New Networking: DevOps, Cross-project Integration, and XCI  | LF Webinars                   | November 2017  | [Link](https://t.co/IZF9Sf1nIR)
 
 ## Articles, Blog Posts
 
