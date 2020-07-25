@@ -87,6 +87,7 @@ part of and articles and blog posts I contributed to.
 
 | Title                                                                   | Date         | Link
 | :---                                                                    | :---         | :---
+| Building the Future on Bare Metal                                       | July 2020    | [OpenStack Foundation Bare Metal Whitepaper](https://www.openstack.org/bare-metal/how-ironic-delivers-abstraction-and-automation-using-open-source-infrastructure/)
 | How the CDF is Establishing a Shared Vocabulary for the Industry        | April 2020   | [CD Foundation Newsletter Article](https://cd.foundation/blog/2020/04/24/how-the-cdf-is-establishing-a-shared-vocabulary-for-the-industry/)
 | CD Foundation TOC Approves Interoperability Special Interest Group      | January 2020 | [CD Foundation Blog Post](https://cd.foundation/blog/2020/01/21/cd-foundation-technical-oversight-committee-approves-interoperability-sig/)
 | XCI: How OPNFV Slashed Upstream Integration from Months to Days         | October 2017 | [OPNFV Website](https://www.opnfv.org/blog/2017/10/19/xci-how-opnfv-slashed-upstream-integration-from-months-to-days)
