@@ -16,15 +16,19 @@ The initiatives I take part in aim to establish CI/CD principles and practices i
 source. [OPNFV Cross Community CI (XCI)](https://opnfv-releng-xci.readthedocs.io) Project started within OPNFV
 community during 2016 which I was the creator and technical lead of. XCI helped us to  pave the way for broader
 collaboration across different open source communities in CI/CD and Infrastructure area. This resulted in an
-initiative named [OpenCI](https://openci.io/) in April 2018. I am co-founder of this initiative.
+initiative named [OpenCI](https://gitlab.com/openci) in April 2018. I am co-founder of this initiative which is
+now dormant.
 
 Following the work we have been doing within the industry and across various open source communities, we
 [proposed](https://lists.cd.foundation/g/cdf-toc/topic/60607236) the formation of Special Interest Group (SIG)
 Interoperability to [Continuous Delivery Foundation (CDF)](https://cd.foundation/). The SIG was
 [approved](https://cd.foundation/blog/2020/01/21/cd-foundation-technical-oversight-committee-approves-interoperability-sig/)
 during January 2020 by CDF Technical Oversight Committee (TOC). I currently serve as the chair to the SIG.
-In addition to my involvement in [SIG Interoperability](https://github.com/cdfoundation/sig-Interoperability),
-I am a contributor to CDF TOC.
+I am also contributor to CDF TOC.
+
+In addition to CI/CD engagements listed above, I actively contribute to [OpenStack Baremetal SIG](https://etherpad.opendev.org/p/bare-metal-sig),
+[Open Source Security Foundation (OpenSSF)](https://openssf.org/) [Security Tooling Workgroup (WG)](https://github.com/ossf/wg-security-tooling),
+and [Eiffel Community](https://eiffel-community.github.io/).
 
 In following sections, you will find the list of talks I've given, webinars, panels and interviews I've taken
 part of and articles and blog posts I contributed to.
