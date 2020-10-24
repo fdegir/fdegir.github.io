@@ -37,6 +37,8 @@ part of and articles and blog posts I contributed to.
 
 | Title                                                                               | Event                             | Date           | Videos/Slides
 | :---                                                                                | :---                              | :---           | :---
+| Interoperability Challenges in CI/CD Ecosystem                                      | [CI/CD Industry Workshop](https://conf.researchr.org/home/cciw-2020#program), [ICST2020](https://icst2020.info/) | October 2020   | [Slides](https://docs.google.com/presentation/d/1Tq8MA724gX0YBkxZDStnPjTZg9096EndAb4jb3jbBos/edit)
+| Interoperability Birds of a Feather (BoF)                                           | [cdCon 2020](https://events.linuxfoundation.org/cdcon/) | October 2020   | [Notes](https://hackmd.io/AizhDLlRTyuYWz-XidWdGg)
 | CI/CD as Enabler to Building Next Generation Networks                               | Open Infrastructure Summit, Denver| May 2019       | [Video](https://www.youtube.com/watch?v=I1fhmJsJQR0)
 | Digital Transformation in Finance Industry                                          | Open Infrastructure Summit, Denver| May 2019       | [Video](https://www.youtube.com/watch?v=UtVOqmpYyes)
 | Evolving CI/CD in Open Source                                                       | Spinnaker Summit, Seattle         | October 2018   | [Slides](https://docs.google.com/presentation/d/1SCtDqrBhoorNheexYoHtOW_P7OOTxKHB5oRHt1mSTWU/edit?usp=sharing)
@@ -91,6 +93,7 @@ part of and articles and blog posts I contributed to.
 
 | Title                                                                   | Date         | Link
 | :---                                                                    | :---         | :---
+| Why Interoperability in CI/CD Matters for Future Innovation             | October 2020 | [Ericsson Blog](https://www.ericsson.com/en/blog/2020/10/ci-cd-devops-interoperability-future-innovation)
 | Building the Future on Bare Metal                                       | July 2020    | [OpenStack Foundation Bare Metal Whitepaper](https://www.openstack.org/use-cases/bare-metal/how-ironic-delivers-abstraction-and-automation-using-open-source-infrastructure)
 | How the CDF is Establishing a Shared Vocabulary for the Industry        | April 2020   | [CD Foundation Newsletter Article](https://cd.foundation/blog/2020/04/24/how-the-cdf-is-establishing-a-shared-vocabulary-for-the-industry/)
 | CD Foundation TOC Approves Interoperability Special Interest Group      | January 2020 | [CD Foundation Blog Post](https://cd.foundation/blog/2020/01/21/cd-foundation-technical-oversight-committee-approves-interoperability-sig/)
