@@ -93,6 +93,7 @@ part of and articles and blog posts I contributed to.
 
 | Title                                                                   | Date         | Link
 | :---                                                                    | :---         | :---
+| CDF SIG Interoperability 2020: Year in Review                           | January 2021 | [CD Foundation Blog Post](https://cd.foundation/blog/2021/01/19/cdf-sig-interoperability-2020-year-in-review/)
 | Why Interoperability in CI/CD Matters for Future Innovation             | October 2020 | [Ericsson Blog](https://www.ericsson.com/en/blog/2020/10/ci-cd-devops-interoperability-future-innovation)
 | Building the Future on Bare Metal                                       | July 2020    | [OpenStack Foundation Bare Metal Whitepaper](https://www.openstack.org/use-cases/bare-metal/how-ironic-delivers-abstraction-and-automation-using-open-source-infrastructure)
 | How the CDF is Establishing a Shared Vocabulary for the Industry        | April 2020   | [CD Foundation Newsletter Article](https://cd.foundation/blog/2020/04/24/how-the-cdf-is-establishing-a-shared-vocabulary-for-the-industry/)
