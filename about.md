@@ -37,6 +37,7 @@ part of and articles and blog posts I contributed to.
 
 | Title                                                                               | Event                             | Date           | Videos/Slides
 | :---                                                                                | :---                              | :---           | :---
+| The Road to Interoperability in CI/CD                                               | [FOSDEM 2021, Virtual](https://fosdem.org/2021/) | February 2021   | [Slides](https://fosdem.org/2021/schedule/event/the_road_to_interoperability_in_cicd/attachments/slides/4385/export/events/attachments/the_road_to_interoperability_in_cicd/slides/4385/FOSDEM201_The_Road_to_Interoperability_in_CICD.pdf)
 | Interoperability Challenges in CI/CD Ecosystem                                      | [CI/CD Industry Workshop](https://conf.researchr.org/home/cciw-2020#program), [ICST2020](https://icst2020.info/) | October 2020   | [Slides](https://docs.google.com/presentation/d/1Tq8MA724gX0YBkxZDStnPjTZg9096EndAb4jb3jbBos/edit)
 | Interoperability Birds of a Feather (BoF)                                           | [cdCon 2020](https://events.linuxfoundation.org/cdcon/) | October 2020   | [Notes](https://hackmd.io/AizhDLlRTyuYWz-XidWdGg)
 | CI/CD as Enabler to Building Next Generation Networks                               | Open Infrastructure Summit, Denver| May 2019       | [Video](https://www.youtube.com/watch?v=I1fhmJsJQR0)
@@ -106,6 +107,7 @@ part of and articles and blog posts I contributed to.
 
 | What                                 | Where
 | :---                                 | :---
+| CI/CD Devroom Moderator              | [FOSDEM 2021 CI/CD Devroom](https://fosdem.org/2021/schedule/track/continuous_integration_and_continuous_deployment/)
 | Program Committee                    | [Continuous Delivery Summit, KubeCon Europe, 2020](https://events.linuxfoundation.org/continuous-delivery-summit/)
 | Program Committee                    | [Continuous Delivery Summit, KubeCon North America, 2019](https://cd.foundation/announcement/2019/09/30/join-us-at-continuous-delivery-summit/)
 | Track Chair, CI/CD                   | [Open Infrastructure Summit Denver, 2019](https://www.openstack.org/summit/denver-2019/)
