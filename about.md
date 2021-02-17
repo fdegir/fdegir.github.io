@@ -24,7 +24,8 @@ Following the work we have been doing within the industry and across various ope
 Interoperability to [Continuous Delivery Foundation (CDF)](https://cd.foundation/). The SIG was
 [approved](https://cd.foundation/blog/2020/01/21/cd-foundation-technical-oversight-committee-approves-interoperability-sig/)
 during January 2020 by CDF Technical Oversight Committee (TOC). I currently serve as the chair to the SIG.
-I am also contributor to CDF TOC.
+In addition to my involvement in [SIG Interoperability](https://github.com/cdfoundation/sig-Interoperability),
+I am a contributor to CDF TOC.
 
 In addition to CI/CD engagements listed above, I actively contribute to [OpenStack Baremetal SIG](https://etherpad.opendev.org/p/bare-metal-sig),
 [Open Source Security Foundation (OpenSSF)](https://openssf.org/) [Security Tooling Workgroup (WG)](https://github.com/ossf/wg-security-tooling),
@@ -38,6 +39,7 @@ part of and articles and blog posts I contributed to.
 | Title                                                                               | Event                             | Date           | Videos/Slides
 | :---                                                                                | :---                              | :---           | :---
 | The Road to Interoperability in CI/CD                                               | [FOSDEM 2021, Virtual](https://fosdem.org/2021/) | February 2021   | [Slides](https://fosdem.org/2021/schedule/event/the_road_to_interoperability_in_cicd/attachments/slides/4385/export/events/attachments/the_road_to_interoperability_in_cicd/slides/4385/FOSDEM201_The_Road_to_Interoperability_in_CICD.pdf)
+| ONAP and DevOps - Integration with CI/CD Pipelines                                  | [LFN Developer and Testing Forum](https://wiki.lfnetworking.org/pages/viewpage.action?pageId=46106257) | [Video](https://wiki.lfnetworking.org/download/attachments/50528946/ONAP%20And%20DevOps%20-%20Integration%20with%20CICD%20Pipelines.mp4?version=1&modificationDate=1612389823000&api=v2)
 | Interoperability Challenges in CI/CD Ecosystem                                      | [CI/CD Industry Workshop](https://conf.researchr.org/home/cciw-2020#program), [ICST2020](https://icst2020.info/) | October 2020   | [Slides](https://docs.google.com/presentation/d/1Tq8MA724gX0YBkxZDStnPjTZg9096EndAb4jb3jbBos/edit)
 | Interoperability Birds of a Feather (BoF)                                           | [cdCon 2020](https://events.linuxfoundation.org/cdcon/) | October 2020   | [Notes](https://hackmd.io/AizhDLlRTyuYWz-XidWdGg)
 | CI/CD as Enabler to Building Next Generation Networks                               | Open Infrastructure Summit, Denver| May 2019       | [Video](https://www.youtube.com/watch?v=I1fhmJsJQR0)
