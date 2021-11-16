@@ -25,7 +25,7 @@ Interoperability to [Continuous Delivery Foundation (CDF)](https://cd.foundation
 [approved](https://cd.foundation/blog/2020/01/21/cd-foundation-technical-oversight-committee-approves-interoperability-sig/)
 during January 2020 by CDF Technical Oversight Committee (TOC). I currently serve as the chair to the SIG.
 In addition to my involvement in [SIG Interoperability](https://github.com/cdfoundation/sig-Interoperability),
-I am a contributor to CDF TOC.
+I am currently serving CDF community as a member to [CDF TOC](https://cd.foundation/about/toc/).
 
 In addition to CI/CD engagements listed above, I actively contribute to [OpenStack Baremetal SIG](https://etherpad.opendev.org/p/bare-metal-sig),
 [Open Source Security Foundation (OpenSSF)](https://openssf.org/) [Security Tooling Workgroup (WG)](https://github.com/ossf/wg-security-tooling),
@@ -38,6 +38,10 @@ part of and articles and blog posts I contributed to.
 
 | Title                                                                               | Event                             | Date           | Videos/Slides
 | :---                                                                                | :---                              | :---           | :---
+| Keynote: Interoperability in CI/CD and Why it Matters?                              | [ETSI UCAAT 2021](https://www.etsi.org/newsroom/news/10-events/1885-2021-10-8th-ucaat-user-conference-on-advanced-automated-testing#pane-2/) | October 2021 | N/A
+| 5G and Challenges with Software Supply Chain Security                               | [Supply Chain Security Con NA 2021](https://sched.co/n00z) | October 2021 | [Slides](https://static.sched.com/hosted_files/supplychainsecurityconna21/7e/SupplyChainSecurityCon_5G_Challenges_in_SCS.pdf)/[Video](https://www.youtube.com/watch?v=uFWD7K2oiM4)
+| Interoperability Birds of a Feather (BoF)                                           | [cdCon 2021](https://sched.co/j07e) | June 2021    | N/A
+| Velocity or Governance: Why not both?                                               | [cdCon 2021](https://sched.co/iosm) | June 2021    | [Slides](https://static.sched.com/hosted_files/cdcon2021/93/Velocity_or_Governance_Why_not_Both.pdf)/[Video](https://www.youtube.com/watch?v=zkscT1x0Hq8)
 | The Road to Interoperability in Cloud Native Continuous Delivery                    | [KubeCon CloudNativeCon Europe 2021](https://sched.co/iE25) | May 2021   | [Slides](https://static.sched.com/hosted_files/kccnceu2021/3b/Road%20to%20Interoperability%20in%20Cloud%20Native%20Continuous%20Delivery.pdf)/[Video](https://www.youtube.com/watch?v=qVvnaezEHoo)
 | Defining Standard Policies for a Common DevOps Pipeline                             | [CDF Meetup](https://www.meetup.com/CD-Foundation-Online/events/276738471/) | March 2021   | [Slides](https://docs.google.com/presentation/d/1aJbdTRV7LxjsL7ptBViUSRWxK7qTD2UQSR0LawOKgnE/edit?usp=sharing)/[Video](https://www.youtube.com/watch?v=wAn1yJpJsW0)
 | The Road to Interoperability in CI/CD                                               | [FOSDEM 2021, Virtual](https://fosdem.org/2021/) | February 2021   | [Slides](https://fosdem.org/2021/schedule/event/the_road_to_interoperability_in_cicd/attachments/slides/4385/export/events/attachments/the_road_to_interoperability_in_cicd/slides/4385/FOSDEM201_The_Road_to_Interoperability_in_CICD.pdf)/[Video](https://fosdem.org/2021/schedule/event/the_road_to_interoperability_in_cicd/)
@@ -98,6 +102,7 @@ part of and articles and blog posts I contributed to.
 
 | Title                                                                   | Date         | Link
 | :---                                                                    | :---         | :---
+| Supply Chain Security + CI/CD Interoperability                          | November 2021| [CD Foundation Blog Post](https://cd.foundation/blog/2021/11/16/join-the-conversation-supply-chain-security-ci-cd-interoperability-nov-18/)
 | CDF SIG Interoperability 2020: Year in Review                           | January 2021 | [CD Foundation Blog Post](https://cd.foundation/blog/2021/01/19/cdf-sig-interoperability-2020-year-in-review/)
 | Why Interoperability in CI/CD Matters for Future Innovation             | October 2020 | [Ericsson Blog](https://www.ericsson.com/en/blog/2020/10/ci-cd-devops-interoperability-future-innovation)
 | Building the Future on Bare Metal                                       | July 2020    | [OpenStack Foundation Bare Metal Whitepaper](https://www.openstack.org/use-cases/bare-metal/how-ironic-delivers-abstraction-and-automation-using-open-source-infrastructure)
