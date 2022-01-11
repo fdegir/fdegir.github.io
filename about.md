@@ -5,15 +5,17 @@ categories: about
 permalink: /about/
 ---
 
-I am working as a Principal Developer at [Ericsson Software Technology](https://www.est.tech) in Stockholm, Sweden.
-My interests include automation, CI/CD, DevOps, and Infrastructure and currently involved in several large scale
-CI/CD initiatives both internally and within open source.
+I am working as a Principal Developer at [Ericsson](https://www.est.tech) in Stockholm, Sweden.
+My interests include CI/CD, DevOps, Developer Experience/Productivity, and Software Supply Chain.
+I  am currently involved in several large scale CI/CD initiatives both internally and within open source.
 
 I served as a committer-at-large member in [OPNFV](https://www.opnfv.org) Technical Steering Committee (TSC) between
-2016-2018 and I am currently a member of [Nordix](https://www.nordix.org/) Technical Committee. (TC)
+2016-2018. I am currently a member of [Nordix](https://www.nordix.org/) [Technical Committee (TC)](https://wiki.nordix.org/display/TC/Technical+Committee)
+and [Continuous Delivery Foundation (CDF)](https://cd.foundation/) [Technical Oversight Committee (TOC)](https://cd.foundation/about/toc/).
 
 The initiatives I take part in aim to establish CI/CD principles and practices in the industry and across open
-source. [OPNFV Cross Community CI (XCI)](https://opnfv-releng-xci.readthedocs.io) Project started within OPNFV
+source while improving developer experience and productivity.
+[OPNFV Cross Community CI (XCI)](https://opnfv-releng-xci.readthedocs.io) Project started within OPNFV
 community during 2016 which I was the creator and technical lead of. XCI helped us to  pave the way for broader
 collaboration across different open source communities in CI/CD and Infrastructure area. This resulted in an
 initiative named [OpenCI](https://gitlab.com/openci) in April 2018. I am co-founder of this initiative which is
@@ -23,13 +25,12 @@ Following the work we have been doing within the industry and across various ope
 [proposed](https://lists.cd.foundation/g/cdf-toc/topic/60607236) the formation of Special Interest Group (SIG)
 Interoperability to [Continuous Delivery Foundation (CDF)](https://cd.foundation/). The SIG was
 [approved](https://cd.foundation/blog/2020/01/21/cd-foundation-technical-oversight-committee-approves-interoperability-sig/)
-during January 2020 by CDF Technical Oversight Committee (TOC). I currently serve as the chair to the SIG.
+during January 2020 by CDF TOC. I currently serve as the co-chair to the SIG.
 In addition to my involvement in [SIG Interoperability](https://github.com/cdfoundation/sig-Interoperability),
 I am currently serving CDF community as a member to [CDF TOC](https://cd.foundation/about/toc/).
 
 In addition to CI/CD engagements listed above, I actively contribute to [OpenStack Baremetal SIG](https://etherpad.opendev.org/p/bare-metal-sig),
-[Open Source Security Foundation (OpenSSF)](https://openssf.org/) [Security Tooling Workgroup (WG)](https://github.com/ossf/wg-security-tooling),
-and [Eiffel Community](https://eiffel-community.github.io/).
+[Open Source Security Foundation (OpenSSF)](https://openssf.org/) and [Eiffel Community](https://eiffel-community.github.io/).
 
 In following sections, you will find the list of talks I've given, webinars, panels and interviews I've taken
 part of and articles and blog posts I contributed to.
