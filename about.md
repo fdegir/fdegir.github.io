@@ -25,7 +25,12 @@ Following the work we have been doing within the industry and across various ope
 [proposed](https://lists.cd.foundation/g/cdf-toc/topic/60607236) the formation of Special Interest Group (SIG)
 Interoperability to [Continuous Delivery Foundation (CDF)](https://cd.foundation/). The SIG was
 [approved](https://cd.foundation/blog/2020/01/21/cd-foundation-technical-oversight-committee-approves-interoperability-sig/)
-during January 2020 by CDF TOC. I currently serve as the co-chair to the SIG.
+during January 2020 by CDF TOC. I  served as the co-chair to the SIG until January 2022.
+
+In January 2022, we [proposed](https://github.com/cdfoundation/toc/pull/140) a new SIG, SIG Software Supply Chain.
+The [SIG Software Supply Chain](https://github.com/cdfoundation/sig-software-supply-chain) is approved by the CDF TOC during February 2022.
+I currently serve as the co-chair to the SIG.
+
 In addition to my involvement in [SIG Interoperability](https://github.com/cdfoundation/sig-Interoperability),
 I am currently serving CDF community as a member to [CDF TOC](https://cd.foundation/about/toc/).
 
@@ -117,6 +122,8 @@ part of and articles and blog posts I contributed to.
 
 | What                                 | Where
 | :---                                 | :---
+| Track Chair, CI/CD                   | [OpenInfra Summit Berlin, 2022](https://openinfra.dev/summit/)
+| CI/CD Devroom Contributor            | [FOSDEM 2022 CI/CD Devroom](https://fosdem.org/2022/schedule/track/continuous_integration_and_continuous_deployment/)
 | CI/CD Devroom Moderator              | [FOSDEM 2021 CI/CD Devroom](https://fosdem.org/2021/schedule/track/continuous_integration_and_continuous_deployment/)
 | Program Committee                    | [Continuous Delivery Summit, KubeCon Europe, 2020](https://events.linuxfoundation.org/continuous-delivery-summit/)
 | Program Committee                    | [Continuous Delivery Summit, KubeCon North America, 2019](https://cd.foundation/announcement/2019/09/30/join-us-at-continuous-delivery-summit/)
