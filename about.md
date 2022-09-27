@@ -5,9 +5,10 @@ categories: about
 permalink: /about/
 ---
 
-I am working as a Principal Developer at [Ericsson](https://www.est.tech) in Stockholm, Sweden.
-My interests include CI/CD, DevOps, Developer Experience/Productivity, and Software Supply Chain.
-I  am currently involved in several large scale CI/CD initiatives both internally and within open source.
+I am working as the Executive Director of [the Continuous Delivery Foundation](https://cd.foundation/) at [the Linux Foundation](https://www.linuxfoundation.org/).
+My interests include CI/CD, DevOps, Infrastructure, Developer Experience/Productivity, and Software Supply Chain.
+
+Before the CD Foundation, I worked as a Principal Developer at Ericsson and I was involved in several CI/CD initiatives within Ericsson and across open source.
 
 I served as a committer-at-large member in [OPNFV](https://www.opnfv.org) Technical Steering Committee (TSC) between
 2016-2018. I am currently a member of [Nordix](https://www.nordix.org/) [Technical Committee (TC)](https://wiki.nordix.org/display/TC/Technical+Committee)
@@ -31,10 +32,7 @@ In January 2022, we [proposed](https://github.com/cdfoundation/toc/pull/140) a n
 The [SIG Software Supply Chain](https://github.com/cdfoundation/sig-software-supply-chain) is approved by the CDF TOC during February 2022.
 I currently serve as the co-chair to the SIG.
 
-In addition to my involvement in [SIG Interoperability](https://github.com/cdfoundation/sig-Interoperability),
-I am currently serving CDF community as a member to [CDF TOC](https://cd.foundation/about/toc/).
-
-In addition to CI/CD engagements listed above, I actively contribute to [OpenStack Baremetal SIG](https://etherpad.opendev.org/p/bare-metal-sig),
+In addition to CI/CD engagements listed above, I contributed to [OpenStack Baremetal SIG](https://etherpad.opendev.org/p/bare-metal-sig),
 [Open Source Security Foundation (OpenSSF)](https://openssf.org/) and [Eiffel Community](https://eiffel-community.github.io/).
 
 In following sections, you will find the list of talks I've given, webinars, panels and interviews I've taken
