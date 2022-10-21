@@ -8,11 +8,11 @@ permalink: /about/
 I am working as the Executive Director of [the Continuous Delivery Foundation](https://cd.foundation/) at [the Linux Foundation](https://www.linuxfoundation.org/).
 My interests include CI/CD, DevOps, Infrastructure, Developer Experience/Productivity, and Software Supply Chain.
 
-Before the CD Foundation, I worked as a Principal Developer at Ericsson and I was involved in several CI/CD initiatives within Ericsson and across open source.
+Before the CDF, I worked as a Principal Developer at Ericsson and I was involved in several large scale CI/CD initiatives within Ericsson and across open source.
 
-I served as a committer-at-large member in [OPNFV](https://www.opnfv.org) Technical Steering Committee (TSC) between
-2016-2018. I am currently a member of [Nordix](https://www.nordix.org/) [Technical Committee (TC)](https://wiki.nordix.org/display/TC/Technical+Committee)
-and [Continuous Delivery Foundation (CDF)](https://cd.foundation/) [Technical Oversight Committee (TOC)](https://cd.foundation/about/toc/).
+I served as a committer-at-large member in [OPNFV](https://www.opnfv.org) Technical Steering Committee (TSC),
+as a member of [Nordix](https://www.nordix.org/) [Technical Committee (TC)](https://wiki.nordix.org/display/TC/Technical+Committee)
+and end user representative member in the CDF [Technical Oversight Committee (TOC)](https://cd.foundation/about/toc/).
 
 The initiatives I take part in aim to establish CI/CD principles and practices in the industry and across open
 source while improving developer experience and productivity.
@@ -106,12 +106,13 @@ part of and articles and blog posts I contributed to.
 
 | Title                                                                   | Date         | Link
 | :---                                                                    | :---         | :---
-| Supply Chain Security + CI/CD Interoperability                          | November 2021| [CD Foundation Blog Post](https://cd.foundation/blog/2021/11/16/join-the-conversation-supply-chain-security-ci-cd-interoperability-nov-18/)
-| CDF SIG Interoperability 2020: Year in Review                           | January 2021 | [CD Foundation Blog Post](https://cd.foundation/blog/2021/01/19/cdf-sig-interoperability-2020-year-in-review/)
+| CNCF Cloud Native Security Whitepaper                                   | May 2022     | [CNCF TAG Security Whitepaper v2](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v2/CNCF_cloud-native-security-whitepaper-May2022-v2.pdf)
+| Supply Chain Security + CI/CD Interoperability                          | November 2021| [CDF Blog Post](https://cd.foundation/blog/2021/11/16/join-the-conversation-supply-chain-security-ci-cd-interoperability-nov-18/)
+| CDF SIG Interoperability 2020: Year in Review                           | January 2021 | [CDF Blog Post](https://cd.foundation/blog/2021/01/19/cdf-sig-interoperability-2020-year-in-review/)
 | Why Interoperability in CI/CD Matters for Future Innovation             | October 2020 | [Ericsson Blog](https://www.ericsson.com/en/blog/2020/10/ci-cd-devops-interoperability-future-innovation)
 | Building the Future on Bare Metal                                       | July 2020    | [OpenStack Foundation Bare Metal Whitepaper](https://www.openstack.org/use-cases/bare-metal/how-ironic-delivers-abstraction-and-automation-using-open-source-infrastructure)
-| How the CDF is Establishing a Shared Vocabulary for the Industry        | April 2020   | [CD Foundation Newsletter Article](https://cd.foundation/blog/2020/04/24/how-the-cdf-is-establishing-a-shared-vocabulary-for-the-industry/)
-| CD Foundation TOC Approves Interoperability Special Interest Group      | January 2020 | [CD Foundation Blog Post](https://cd.foundation/blog/2020/01/21/cd-foundation-technical-oversight-committee-approves-interoperability-sig/)
+| How the CDF is Establishing a Shared Vocabulary for the Industry        | April 2020   | [CDF Newsletter Article](https://cd.foundation/blog/2020/04/24/how-the-cdf-is-establishing-a-shared-vocabulary-for-the-industry/)
+| CDF TOC Approves Interoperability Special Interest Group                | January 2020 | [CDF Blog Post](https://cd.foundation/blog/2020/01/21/cd-foundation-technical-oversight-committee-approves-interoperability-sig/)
 | XCI: How OPNFV Slashed Upstream Integration from Months to Days         | October 2017 | [OPNFV Website](https://www.opnfv.org/blog/2017/10/19/xci-how-opnfv-slashed-upstream-integration-from-months-to-days)
 | XCI Solution Brief                                                      | August 2017  | [XCI Solution Brief](https://www.opnfv.org/wp-content/uploads/sites/12/2017/08/OPNFV_SolutionBrief_XCI_080617.pdf)
 | DevOps: fueling the evolution toward 5G networks                        | April 2017   | [Ericsson Technology Review](https://www.ericsson.com/en/publications/ericsson-technology-review/archive/2017/devops-fueling-the-evolution-toward-5g-networks)
