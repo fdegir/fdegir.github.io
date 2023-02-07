@@ -38,69 +38,74 @@ In addition to CI/CD engagements listed above, I contributed to [OpenStack Barem
 In following sections, you will find the list of talks I've given, webinars, panels and interviews I've taken
 part of and articles and blog posts I contributed to.
 
-## Conference Talks, Webinars, Panels
+## Keynotes, Conference Talks, Panels
 
-| Title                                                                               | Event                             | Date           | Videos/Slides
+| Title                                                                               | Event                             | Date           | Links
 | :---                                                                                | :---                              | :---           | :---
 | Keynote: Interoperability in CI/CD and Why it Matters?                              | [ETSI UCAAT 2021](https://www.etsi.org/newsroom/news/10-events/1885-2021-10-8th-ucaat-user-conference-on-advanced-automated-testing#pane-2/) | October 2021 | N/A
-| 5G and Challenges with Software Supply Chain Security                               | [Supply Chain Security Con NA 2021](https://sched.co/n00z) | October 2021 | [Slides](https://static.sched.com/hosted_files/supplychainsecurityconna21/7e/SupplyChainSecurityCon_5G_Challenges_in_SCS.pdf)/[Video](https://www.youtube.com/watch?v=uFWD7K2oiM4)
+| 5G and Challenges with Software Supply Chain Security                               | [Supply Chain Security Con NA 2021](https://sched.co/n00z) | October 2021 | [Slides](https://static.sched.com/hosted_files/supplychainsecurityconna21/7e/SupplyChainSecurityCon_5G_Challenges_in_SCS.pdf)/[Recording](https://www.youtube.com/watch?v=uFWD7K2oiM4)
 | Interoperability Birds of a Feather (BoF)                                           | [cdCon 2021](https://sched.co/j07e) | June 2021    | N/A
-| Velocity or Governance: Why not both?                                               | [cdCon 2021](https://sched.co/iosm) | June 2021    | [Slides](https://static.sched.com/hosted_files/cdcon2021/93/Velocity_or_Governance_Why_not_Both.pdf)/[Video](https://www.youtube.com/watch?v=zkscT1x0Hq8)
-| The Road to Interoperability in Cloud Native Continuous Delivery                    | [KubeCon CloudNativeCon Europe 2021](https://sched.co/iE25) | May 2021   | [Slides](https://static.sched.com/hosted_files/kccnceu2021/3b/Road%20to%20Interoperability%20in%20Cloud%20Native%20Continuous%20Delivery.pdf)/[Video](https://www.youtube.com/watch?v=qVvnaezEHoo)
-| Defining Standard Policies for a Common DevOps Pipeline                             | [CDF Meetup](https://www.meetup.com/CD-Foundation-Online/events/276738471/) | March 2021   | [Slides](https://docs.google.com/presentation/d/1aJbdTRV7LxjsL7ptBViUSRWxK7qTD2UQSR0LawOKgnE/edit?usp=sharing)/[Video](https://www.youtube.com/watch?v=wAn1yJpJsW0)
-| The Road to Interoperability in CI/CD                                               | [FOSDEM 2021, Virtual](https://fosdem.org/2021/) | February 2021   | [Slides](https://fosdem.org/2021/schedule/event/the_road_to_interoperability_in_cicd/attachments/slides/4385/export/events/attachments/the_road_to_interoperability_in_cicd/slides/4385/FOSDEM201_The_Road_to_Interoperability_in_CICD.pdf)/[Video](https://fosdem.org/2021/schedule/event/the_road_to_interoperability_in_cicd/)
-| ONAP and DevOps - Integration with CI/CD Pipelines                                  | [LFN Developer and Testing Forum](https://wiki.lfnetworking.org/pages/viewpage.action?pageId=46106257) | February 2021 | [Video](https://wiki.lfnetworking.org/download/attachments/50528946/ONAP%20And%20DevOps%20-%20Integration%20with%20CICD%20Pipelines.mp4?version=1&modificationDate=1612389823000&api=v2)
+| Velocity or Governance: Why not both?                                               | [cdCon 2021](https://sched.co/iosm) | June 2021    | [Slides](https://static.sched.com/hosted_files/cdcon2021/93/Velocity_or_Governance_Why_not_Both.pdf)/[Recording](https://www.youtube.com/watch?v=zkscT1x0Hq8)
+| The Road to Interoperability in Cloud Native Continuous Delivery                    | [KubeCon CloudNativeCon Europe 2021](https://sched.co/iE25) | May 2021   | [Slides](https://static.sched.com/hosted_files/kccnceu2021/3b/Road%20to%20Interoperability%20in%20Cloud%20Native%20Continuous%20Delivery.pdf)/[Recording](https://www.youtube.com/watch?v=qVvnaezEHoo)
+| The Road to Interoperability in CI/CD                                               | [FOSDEM 2021, Virtual](https://fosdem.org/2021/) | February 2021   | [Slides](https://fosdem.org/2021/schedule/event/the_road_to_interoperability_in_cicd/attachments/slides/4385/export/events/attachments/the_road_to_interoperability_in_cicd/slides/4385/FOSDEM201_The_Road_to_Interoperability_in_CICD.pdf)/[Recording](https://fosdem.org/2021/schedule/event/the_road_to_interoperability_in_cicd/)
+| ONAP and DevOps - Integration with CI/CD Pipelines                                  | [LFN Developer and Testing Forum](https://wiki.lfnetworking.org/pages/viewpage.action?pageId=46106257) | February 2021 | [Recording](https://wiki.lfnetworking.org/download/attachments/50528946/ONAP%20And%20DevOps%20-%20Integration%20with%20CICD%20Pipelines.mp4?version=1&modificationDate=1612389823000&api=v2)
 | Interoperability Challenges in CI/CD Ecosystem                                      | [CI/CD Industry Workshop](https://conf.researchr.org/home/cciw-2020#program), [ICST2020](https://icst2020.info/) | October 2020   | [Slides](https://docs.google.com/presentation/d/1Tq8MA724gX0YBkxZDStnPjTZg9096EndAb4jb3jbBos/edit)
 | Interoperability Birds of a Feather (BoF)                                           | [cdCon 2020](https://events.linuxfoundation.org/cdcon/) | October 2020   | [Notes](https://hackmd.io/AizhDLlRTyuYWz-XidWdGg)
-| CI/CD as Enabler to Building Next Generation Networks                               | Open Infrastructure Summit, Denver| May 2019       | [Video](https://www.youtube.com/watch?v=I1fhmJsJQR0)
-| Digital Transformation in Finance Industry                                          | Open Infrastructure Summit, Denver| May 2019       | [Video](https://www.youtube.com/watch?v=UtVOqmpYyes)
+| CI/CD as Enabler to Building Next Generation Networks                               | Open Infrastructure Summit, Denver| May 2019       | [Recording](https://www.youtube.com/watch?v=I1fhmJsJQR0)
+| Digital Transformation in Finance Industry                                          | Open Infrastructure Summit, Denver| May 2019       | [Recording](https://www.youtube.com/watch?v=UtVOqmpYyes)
 | Evolving CI/CD in Open Source                                                       | Spinnaker Summit, Seattle         | October 2018   | [Slides](https://docs.google.com/presentation/d/1SCtDqrBhoorNheexYoHtOW_P7OOTxKHB5oRHt1mSTWU/edit?usp=sharing)
-| Panel: The Growing Spinnaker Ecosystem                                              | Spinnaker Summit, Seattle         | October 2018   | [Video](https://www.youtube.com/watch?v=C2TeQlyWGmc)
+| Panel: The Growing Spinnaker Ecosystem                                              | Spinnaker Summit, Seattle         | October 2018   | [Recording](https://www.youtube.com/watch?v=C2TeQlyWGmc)
 | Creating Synergies: Sharing and Reusing Results of CI/CD System Between Communities | Open Networking Summit Europe     | September 2018 | [Slides](https://docs.google.com/presentation/d/1TNG8xEhtKt5B54Phw_5rqM4jsNBjwEQgDsP-MwkwpTg/edit?usp=sharing)
 | Evolving CI/CD in Open Source Networking                                            | Open Networking Summit Europe     | September 2018 | [Slides](https://docs.google.com/presentation/d/1qYfSfLig3sQyuZSiYcARDivlPrbHbq1ry_nf3ICeAjs/edit?usp=sharing)
-| Keynote: Continuous Delivery Across Communities                                     | OpenDev, Vancouver                | May 2018       | [Video](https://www.youtube.com/watch?v=FpAP4LwSO60)
+| Keynote: Continuous Delivery Across Communities                                     | OpenDev, Vancouver                | May 2018       | [Recording](https://www.youtube.com/watch?v=FpAP4LwSO60)
 | We Came Together, Now What?                                                         | OpenDev, Vancouver                | May 2018       | [Slides](https://docs.google.com/presentation/d/1ZdjatVB8nZbUf2GJsYRFbwm6BA3naELJhyajWkVdY-A/edit?usp=sharing)
 | OpenCI: What, Why, How?                                                             | OpenDev, Vancouver                | May 2018       | N/A
-| Lab as a Service: Compose Your Cloud Automatically with Few Clicks                  | OpenStack Summit, Vancouver       | May 2018       | [Video](https://www.youtube.com/watch?v=LNZ2bIsNZ_g)
+| Lab as a Service: Compose Your Cloud Automatically with Few Clicks                  | OpenStack Summit, Vancouver       | May 2018       | [Recording](https://www.youtube.com/watch?v=LNZ2bIsNZ_g)
 | Lessons Learned: Integration, From the Cradle to the Stage                          | LFN Dev Forum, Los Angeles        | March 2018     | N/A
 | Cross Community Infra/CICD                                                          | LFN Dev Forum, Los Angeles        | March 2018     | N/A
 | Lab as a Service: Compose Your Cloud Automatically with Few Clicks                  | Open Networking Summit NA         | March 2018     | [Slides](https://docs.google.com/presentation/d/1wiAAJz4ERkxAizuPU3CeB8yum5plu1RBhGVNifZ6aC0/edit#slide=id.g2927690177_2_6)
-| Integrating Cloud and Container Projects in the OPNFV community: Cross Community CI | FOSDEM 2018, Brussels             | February 2018  | [Video](https://www.youtube.com/watch?v=hmfIczDJe5w)
+| Integrating Cloud and Container Projects in the OPNFV community: Cross Community CI | FOSDEM 2018, Brussels             | February 2018  | [Recording](https://www.youtube.com/watch?v=hmfIczDJe5w)
 | Cross Community CI                                                                  | OPNFV Plugfest, Portland          | December 2017  | N/A
-| Bringing Open Source Communities Together: XCI                                      | OpenStack Summit, Sydney          | November 2017  | [Video](https://www.youtube.com/watch?v=KLkWMcllUu8)
+| Bringing Open Source Communities Together: XCI                                      | OpenStack Summit, Sydney          | November 2017  | [Recording](https://www.youtube.com/watch?v=KLkWMcllUu8)
 | Bringing Open Source Communities Together: XCI                                      | Open Source Summit, Prague        | October 2017   | N/A
 | Composing your cloud, learn how to automate deployment of your complete cloud stack | OpenStack Days Nordic             | October 2017   | N/A
-| Bringing Open Source Communities Together: Cross Community CI                       | OpenStack Days Nordic             | October 2017   | [Video](https://www.youtube.com/watch?v=9moh37G_7q0)
+| Bringing Open Source Communities Together: Cross Community CI                       | OpenStack Days Nordic             | October 2017   | [Recording](https://www.youtube.com/watch?v=9moh37G_7q0)
 | Cross Community CI & Lab as a Service                                               | OpenDaylight DDF, Santa Clara     | October 2017   | N/A
 | Cross Community CI ETSI NFV TST                                                     | ETSI NFV#19, Denver               | September 2017 | N/A
-| Being Brave: Deploying OpenStack from Master                                        | OPNFV Summit, Beijing             | June 2017      | [Video](https://www.youtube.com/watch?v=jqIzgCh46SI)
-| Improving POD Usage in Labs, CI and Testing                                         | OPNFV Summit, Beijing             | June 2017      | [Video](https://www.youtube.com/watch?v=LGf6Rj9mJlo)
+| Being Brave: Deploying OpenStack from Master                                        | OPNFV Summit, Beijing             | June 2017      | [Recording](https://www.youtube.com/watch?v=jqIzgCh46SI)
+| Improving POD Usage in Labs, CI and Testing                                         | OPNFV Summit, Beijing             | June 2017      | [Recording](https://www.youtube.com/watch?v=LGf6Rj9mJlo)
 | OPNFV XCI                                                                           | OPNFV Summit, Beijing             | June 2017      | N/A
 | OPNFV Testing + OPNFV Pharos + OPNFV XCI                                            | OpenStack Summit, Boston          | May 2017       | N/A
 | OPNFV XCI and Infrastructure                                                        | OPNFV Hackfest, Paris             | April 2017     | N/A
 | How Automated CI/CD Enables Network Provisioning                                    | Open Networking Summit, NA        | April 2017     | N/A
 | OPNFV CI and Challenges                                                             | CODE-STHLM, Stockholm             | November 2016  | N/A
-| The Benefits of E2E Integration between open Source Communities Using 3rd Party CI  | OpenStack Summit, Barcelona       | October 2016   | [Video](https://www.youtube.com/watch?v=u_sNKOYE3PE)
-| OPNFV Infrastructure                                                                | OPNFV Summit, Berlin              | June 2016      | [Video](https://www.youtube.com/watch?v=yc4ExT6wano)
-| CI/CD & DevOps                                                                      | OPNFV Summit, Berlin              | June 2016      | [Video](https://www.youtube.com/watch?v=YINIzMtzMdo)
-| Multisite OPNFV Testing Challenges                                                  | OPNFV Summit, Berlin              | June 2016      | [Video](https://www.youtube.com/watch?v=-XNnCD5Iyv0)
-| Panel: CI/CD & DevOps                                                               | OPNFV Summit, Berlin              | June 2016      | [Video](https://www.youtube.com/watch?v=V9imzxcr1W8)
+| The Benefits of E2E Integration between open Source Communities Using 3rd Party CI  | OpenStack Summit, Barcelona       | October 2016   | [Recording](https://www.youtube.com/watch?v=u_sNKOYE3PE)
+| OPNFV Infrastructure                                                                | OPNFV Summit, Berlin              | June 2016      | [Recording](https://www.youtube.com/watch?v=yc4ExT6wano)
+| CI/CD & DevOps                                                                      | OPNFV Summit, Berlin              | June 2016      | [Recording](https://www.youtube.com/watch?v=YINIzMtzMdo)
+| Multisite OPNFV Testing Challenges                                                  | OPNFV Summit, Berlin              | June 2016      | [Recording](https://www.youtube.com/watch?v=-XNnCD5Iyv0)
+| Panel: CI/CD & DevOps                                                               | OPNFV Summit, Berlin              | June 2016      | [Recording](https://www.youtube.com/watch?v=V9imzxcr1W8)
 | Diary of an Infra Guy                                                               | OPNFV Summit, San Francisco       | November 2015  | N/A
 | OPNFV Infrastructure Projects                                                       | OPNFV Summit, San Francisco       | November 2015  | N/A
 | Integrate, Deploy, and Test using OPNFV Labs                                        | OPNFV Summit, San Francisco       | November 2015  | N/A
 | OPNFV Continuous Integration                                                        | OpenStack Summit, Vancouver       | May 2015       | N/A
 
-## Interviews, Webinars, Podcasts
+## Interviews, Webinars, Podcasts, Meetups
 
-| Title                                                            | Event                         | Date           | Video/Podcast
-| :---                                                             | :---                          | :---           | :---
-| The Pipeline: All things CI/CD & DevOps Podcast: Interoperability| CDF Podcast                   | May 2020       | [Link](https://cdeliveryfdn.buzzsprout.com/1008697/3778943-cdf-sig-interoperability-chair-cloudbees-puppet-discuss-interoperability)
-| Telecom TV: OpenCI                                               | OpenStack Summit, Vancouver   | May 2018       | [Link](https://www.youtube.com/watch?v=pVf_oWQTwIQ)
-| RDO Community: Using Zuul outside of OpenStack                   | OpenStack PTG, Dublin         | March 2018     | [Link](https://www.youtube.com/watch?v=affAJm9StXg)
-| RDO Community: OpenStack and OPNFV                               | OpenStack PTG, Denver         | September 2017 | [Link](https://www.youtube.com/watch?v=Y8k5s1_bI1Y)
-| Linux Foundation: OPNFV XCI                                      | OPNFV Summit, Beijing         | July 2017      | [Link](https://www.youtube.com/watch?v=0X8nMVf48DM)
-| Telecom TV: Network Functions Virtualization                     | OpenStack Summit, Boston      | May 2017       | [Link](https://www.youtube.com/watch?v=KD7UaRWN-Gs)
-| The New Networking: DevOps, Cross-project Integration, and XCI   | LF Webinars                   | November 2017  | [Link](https://t.co/IZF9Sf1nIR)
+| Title                                                            | Event                            | Date           | Links
+| :---                                                             | :---                             | :---           | :---
+| The CD Pipeline: Interoperability Challenges and Solutions       | Techstrong TV & CDF Series       | February 2023  | [Recording](https://techstrong.tv/videos/cd-pipeline/interoperability-challenges-and-solutions-the-cd-pipeline-ep-4)
+| Pulling the Strings: The Future of Platform Engineering          | Puppet Podcast                   | January 2023   | [Podcast](https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering)
+| The Future of Continuous Delivery                                | Cloud Native Turkiye & Kubernetes| December 2022  | [Recording](https://www.youtube.com/watch?v=X2tr9JE_R3s)
+| Continuous Delivery Foundation                                   | CDF Meetup                       | October 2022   | [Recording](https://www.youtube.com/watch?v=Z4A1k1iWDTw)
+| Continuous Delivery is a Critical Software Development Practice  | TFiR & The Linux Foundation      | July 2022      | [Recording](https://www.youtube.com/watch?v=DCWZJPUuK-o)
+| Defining Standard Policies for a Common DevOps Pipeline          | CDF Meetup                       | March 2021     | [Slides](https://docs.google.com/presentation/d/1aJbdTRV7LxjsL7ptBViUSRWxK7qTD2UQSR0LawOKgnE/edit?usp=sharing)/[Recording](https://www.youtube.com/watch?v=wAn1yJpJsW0)
+| The Pipeline: All things CI/CD & DevOps Podcast: Interoperability| CDF Podcast                      | May 2020       | [Podcast](https://cdeliveryfdn.buzzsprout.com/1008697/3778943-cdf-sig-interoperability-chair-cloudbees-puppet-discuss-interoperability)
+| Telecom TV: OpenCI                                               | OpenStack Summit, Vancouver      | May 2018       | [Recording](https://www.youtube.com/watch?v=pVf_oWQTwIQ)
+| RDO Community: Using Zuul outside of OpenStack                   | OpenStack PTG, Dublin            | March 2018     | [Recording](https://www.youtube.com/watch?v=affAJm9StXg)
+| RDO Community: OpenStack and OPNFV                               | OpenStack PTG, Denver            | September 2017 | [Recording](https://www.youtube.com/watch?v=Y8k5s1_bI1Y)
+| Linux Foundation: OPNFV XCI                                      | OPNFV Summit, Beijing            | July 2017      | [Recording](https://www.youtube.com/watch?v=0X8nMVf48DM)
+| Telecom TV: Network Functions Virtualization                     | OpenStack Summit, Boston         | May 2017       | [Recording](https://www.youtube.com/watch?v=KD7UaRWN-Gs)
+| The New Networking: DevOps, Cross-project Integration, and XCI   | LF Webinars                      | November 2017  | [Recording](https://t.co/IZF9Sf1nIR)
 
 ## Articles, Blog Posts
 
@@ -121,6 +126,7 @@ part of and articles and blog posts I contributed to.
 
 | What                                 | Where
 | :---                                 | :---
+| CI/CD Devroom Contributor            | [FOSDEM 2023 CI/CD Devroom](https://fosdem.org/2023/schedule/track/continuous_integration_and_continuous_deployment/)
 | Track Chair, CI/CD                   | [OpenInfra Summit Berlin, 2022](https://openinfra.dev/summit/)
 | CI/CD Devroom Contributor            | [FOSDEM 2022 CI/CD Devroom](https://fosdem.org/2022/schedule/track/continuous_integration_and_continuous_deployment/)
 | CI/CD Devroom Moderator              | [FOSDEM 2021 CI/CD Devroom](https://fosdem.org/2021/schedule/track/continuous_integration_and_continuous_deployment/)
