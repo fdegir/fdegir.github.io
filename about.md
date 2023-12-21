@@ -6,15 +6,15 @@ permalink: /about/
 ---
 
 I am a technologist with a track record of over 15 years in infrastructure, CI/CD, DevOps, and platforms.
+I have a big passion for developer productivity and experience and I contributed to may efforts both in corporate settings as well as in open source communities.
 
 In the past, I worked as the Executive Director of [the Continuous Delivery Foundation](https://cd.foundation/) at [the Linux Foundation](https://www.linuxfoundation.org/).
-
-Before the Continuous Delivery Foundation, I worked as a Principal Developer at Ericsson and I was involved in several large scale CI/CD initiatives within Ericsson and across open source.
+Before the Continuous Delivery Foundation, I worked as a Principal Developer at [Ericsson](https://www.ericsson.com/en) and I was involved in several large scale CI/CD initiatives within Ericsson and across open source.
 
 I actively contribute to various open source projects as member of committees, team lead, and maintainer.
 I served as a committer-at-large member in [OPNFV](https://www.opnfv.org) Technical Steering Committee (TSC),
-as a member of [Nordix](https://www.nordix.org/) [Technical Committee (TC)](https://wiki.nordix.org/display/TC/Technical+Committee)
-and end user representative member in the CDF [Technical Oversight Committee (TOC)](https://cd.foundation/about/toc/).
+end user representative member in the CDF [Technical Oversight Committee (TOC)](https://cd.foundation/about/toc/),
+and as a member of [Nordix](https://www.nordix.org/) [Technical Committee (TC)](https://wiki.nordix.org/display/TC/Technical+Committee).
 
 The initiatives I take part in aim to establish CI/CD principles and practices in the industry and across open
 source while improving developer experience and productivity.
@@ -129,7 +129,7 @@ part of and articles and blog posts I contributed to.
 | CDF TOC Approves Interoperability Special Interest Group                | January 2020 | [CDF Blog Post](https://cd.foundation/blog/2020/01/21/cd-foundation-technical-oversight-committee-approves-interoperability-sig/)
 | XCI: How OPNFV Slashed Upstream Integration from Months to Days         | October 2017 | [OPNFV Website](https://www.opnfv.org/blog/2017/10/19/xci-how-opnfv-slashed-upstream-integration-from-months-to-days)
 | XCI Solution Brief                                                      | August 2017  | [XCI Solution Brief](https://www.opnfv.org/wp-content/uploads/sites/12/2017/08/OPNFV_SolutionBrief_XCI_080617.pdf)
-| DevOps: fueling the evolution toward 5G networks                        | April 2017   | [Ericsson Technology Review](https://www.ericsson.com/en/publications/ericsson-technology-review/archive/2017/devops-fueling-the-evolution-toward-5g-networks)
+| DevOps: fueling the evolution toward 5G networks                        | April 2017   | [Ericsson Technology Review](https://www.ericsson.com/en/reports-and-papers/ericsson-technology-review/articles/devops-fueling-the-evolution-toward-5g-networks)
 
 ## Other
 
