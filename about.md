@@ -5,11 +5,13 @@ categories: about
 permalink: /about/
 ---
 
-I am working as the Executive Director of [the Continuous Delivery Foundation](https://cd.foundation/) at [the Linux Foundation](https://www.linuxfoundation.org/).
-My interests include CI/CD, DevOps, Infrastructure, Developer Experience/Productivity, and Software Supply Chain.
+I am a technologist with a track record of over 15 years in infrastructure, CI/CD, DevOps, and platforms.
 
-Before the CDF, I worked as a Principal Developer at Ericsson and I was involved in several large scale CI/CD initiatives within Ericsson and across open source.
+In the past, I worked as the Executive Director of [the Continuous Delivery Foundation](https://cd.foundation/) at [the Linux Foundation](https://www.linuxfoundation.org/).
 
+Before the Continuous Delivery Foundation, I worked as a Principal Developer at Ericsson and I was involved in several large scale CI/CD initiatives within Ericsson and across open source.
+
+I actively contribute to various open source projects as member of committees, team lead, and maintainer.
 I served as a committer-at-large member in [OPNFV](https://www.opnfv.org) Technical Steering Committee (TSC),
 as a member of [Nordix](https://www.nordix.org/) [Technical Committee (TC)](https://wiki.nordix.org/display/TC/Technical+Committee)
 and end user representative member in the CDF [Technical Oversight Committee (TOC)](https://cd.foundation/about/toc/).
@@ -30,7 +32,6 @@ during January 2020 by CDF TOC. I  served as the co-chair to the SIG until Janua
 
 In January 2022, we [proposed](https://github.com/cdfoundation/toc/pull/140) a new SIG, SIG Software Supply Chain.
 The [SIG Software Supply Chain](https://github.com/cdfoundation/sig-software-supply-chain) is approved by the CDF TOC during February 2022.
-I currently serve as the co-chair to the SIG.
 
 In addition to CI/CD engagements listed above, I contributed to [OpenStack Baremetal SIG](https://etherpad.opendev.org/p/bare-metal-sig),
 [Open Source Security Foundation (OpenSSF)](https://openssf.org/) and [Eiffel Community](https://eiffel-community.github.io/).
@@ -42,6 +43,10 @@ part of and articles and blog posts I contributed to.
 
 | Title                                                                               | Event                             | Date           | Links
 | :---                                                                                | :---                              | :---           | :---
+| Interoperability: Empowering Multi-Vendor CD in Telecommunications with Standardization | [ONE Summit Regional Days 2023](https://lfnetworking.org/event/one-summit-regional-day-spain/) | September 2023 | [Recording](https://www.youtube.com/watch?v=1aqwUEEXt_w)
+| Keynote: Welcome and Opening Remarks                                                | [cdCon + GitOpsCon 2023](https://events.linuxfoundation.org/cdcon-gitopscon/)        | May 2023       | [Recording](https://www.youtube.com/watch?v=Qio18rLz-8Y)
+| Securing Your Software Supply Chain One Open Source Project at a Time               | [FOSDEM 2023](https://archive.fosdem.org/2023/schedule/event/making_continuous_delivery_accessible_to_all/)| February 2923 2021 | [Recording](https://archive.fosdem.org/2023/schedule/event/supplychain/)
+| Making Continuous Delivery Accessible to All                                        | [FOSDEM 2023](https://archive.fosdem.org/2023/schedule/event/supplychain/)| February 2923 2021 | [Recording](https://archive.fosdem.org/2023/schedule/event/making_continuous_delivery_accessible_to_all/)
 | Keynote: Interoperability in CI/CD and Why it Matters?                              | [ETSI UCAAT 2021](https://www.etsi.org/newsroom/news/10-events/1885-2021-10-8th-ucaat-user-conference-on-advanced-automated-testing#pane-2/) | October 2021 | N/A
 | 5G and Challenges with Software Supply Chain Security                               | [Supply Chain Security Con NA 2021](https://sched.co/n00z) | October 2021 | [Slides](https://static.sched.com/hosted_files/supplychainsecurityconna21/7e/SupplyChainSecurityCon_5G_Challenges_in_SCS.pdf)/[Recording](https://www.youtube.com/watch?v=uFWD7K2oiM4)
 | Interoperability Birds of a Feather (BoF)                                           | [cdCon 2021](https://sched.co/j07e) | June 2021    | N/A
@@ -93,11 +98,15 @@ part of and articles and blog posts I contributed to.
 
 | Title                                                            | Event                            | Date           | Links
 | :---                                                             | :---                             | :---           | :---
+| Continuous Delivery Foundation State of Union                    | The Linux Foundation & TFiR      | July 2023      | [Recording](https://www.youtube.com/watch?v=_ZNP7FRUZ6c)
+| CI/CD, Interoperability, Supply Chain Security, Platform Engineering | The Cube                     | May 2023       | [Recording](https://www.youtube.com/watch?v=6rIB6c5KWlE)
+| Interoperability, CDEvents                                       | Techstrong                       | May 2023       | [Recording](https://techstrong.tv/videos/oss-north-america-2023/fatih-degirmenci-cd-foundation-andrea-frittoli-ibm-oss-north-america-2023)
 | The CD Pipeline: Interoperability Challenges and Solutions       | Techstrong TV & CDF Series       | February 2023  | [Recording](https://techstrong.tv/videos/cd-pipeline/interoperability-challenges-and-solutions-the-cd-pipeline-ep-4)
 | Pulling the Strings: The Future of Platform Engineering          | Puppet Podcast                   | January 2023   | [Podcast](https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering)
 | The Future of Continuous Delivery                                | Cloud Native Turkiye & Kubernetes| December 2022  | [Recording](https://www.youtube.com/watch?v=X2tr9JE_R3s)
 | Continuous Delivery Foundation                                   | CDF Meetup                       | October 2022   | [Recording](https://www.youtube.com/watch?v=Z4A1k1iWDTw)
-| Continuous Delivery is a Critical Software Development Practice  | TFiR & The Linux Foundation      | July 2022      | [Recording](https://www.youtube.com/watch?v=DCWZJPUuK-o)
+| Continuous Delivery is a Critical Software Development Practice  | The Linux Foundation & TFiR      | July 2022      | [Recording](https://www.youtube.com/watch?v=DCWZJPUuK-o)
+| Open Source, CDF, and SIGs                                       | JFrog DevOps SpeakEasy           | May 2022       | [Recording](https://www.youtube.com/watch?v=9nYQsU70QZo)
 | Defining Standard Policies for a Common DevOps Pipeline          | CDF Meetup                       | March 2021     | [Slides](https://docs.google.com/presentation/d/1aJbdTRV7LxjsL7ptBViUSRWxK7qTD2UQSR0LawOKgnE/edit?usp=sharing)/[Recording](https://www.youtube.com/watch?v=wAn1yJpJsW0)
 | The Pipeline: All things CI/CD & DevOps Podcast: Interoperability| CDF Podcast                      | May 2020       | [Podcast](https://cdeliveryfdn.buzzsprout.com/1008697/3778943-cdf-sig-interoperability-chair-cloudbees-puppet-discuss-interoperability)
 | Telecom TV: OpenCI                                               | OpenStack Summit, Vancouver      | May 2018       | [Recording](https://www.youtube.com/watch?v=pVf_oWQTwIQ)
