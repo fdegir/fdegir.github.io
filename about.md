@@ -6,7 +6,7 @@ permalink: /about/
 ---
 
 I am a technologist with a track record of over 15 years in infrastructure, CI/CD, DevOps, and platforms.
-I have a big passion for developer productivity and experience and I contributed to many efforts both in corporate settings as well as in open source communities in order to empower developers to focus value adding activities and decrease the congnitive load on them..
+I have a big passion for developer productivity and experience and I contributed to many efforts both in corporate settings as well as in open source communities in order to empower developers to focus value adding activities and decrease the congnitive load on them.
 
 In the past, I worked as the Executive Director of [the Continuous Delivery Foundation](https://cd.foundation/) (CDF) at [the Linux Foundation](https://www.linuxfoundation.org/), leading CDF's efforts to increase the cross industry and cross community collaboration and push the CI/CD domain forward.
 Before the Continuous Delivery Foundation, I worked as a Principal Developer at [Ericsson](https://www.ericsson.com/en) and I was involved in several large scale CI/CD initiatives within Ericsson and across open source.
