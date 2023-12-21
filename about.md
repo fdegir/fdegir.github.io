@@ -6,9 +6,9 @@ permalink: /about/
 ---
 
 I am a technologist with a track record of over 15 years in infrastructure, CI/CD, DevOps, and platforms.
-I have a big passion for developer productivity and experience and I contributed to may efforts both in corporate settings as well as in open source communities.
+I have a big passion for developer productivity and experience and I contributed to many efforts both in corporate settings as well as in open source communities in order to empower developers to focus value adding activities and decrease the congnitive load on them..
 
-In the past, I worked as the Executive Director of [the Continuous Delivery Foundation](https://cd.foundation/) at [the Linux Foundation](https://www.linuxfoundation.org/).
+In the past, I worked as the Executive Director of [the Continuous Delivery Foundation](https://cd.foundation/) (CDF) at [the Linux Foundation](https://www.linuxfoundation.org/), leading CDF's efforts to increase the cross industry and cross community collaboration and push the CI/CD domain forward.
 Before the Continuous Delivery Foundation, I worked as a Principal Developer at [Ericsson](https://www.ericsson.com/en) and I was involved in several large scale CI/CD initiatives within Ericsson and across open source.
 
 I actively contribute to various open source projects as member of committees, team lead, and maintainer.
@@ -100,8 +100,9 @@ part of and articles and blog posts I contributed to.
 | :---                                                             | :---                             | :---           | :---
 | Continuous Delivery Foundation State of Union                    | The Linux Foundation & TFiR      | July 2023      | [Recording](https://www.youtube.com/watch?v=_ZNP7FRUZ6c)
 | CI/CD, Interoperability, Supply Chain Security, Platform Engineering | The Cube                     | May 2023       | [Recording](https://www.youtube.com/watch?v=6rIB6c5KWlE)
-| Interoperability, CDEvents                                       | Techstrong                       | May 2023       | [Recording](https://techstrong.tv/videos/oss-north-america-2023/fatih-degirmenci-cd-foundation-andrea-frittoli-ibm-oss-north-america-2023)
-| The CD Pipeline: Interoperability Challenges and Solutions       | Techstrong TV & CDF Series       | February 2023  | [Recording](https://techstrong.tv/videos/cd-pipeline/interoperability-challenges-and-solutions-the-cd-pipeline-ep-4)
+| Interoperability, CDEvents                                       | Techstrong TV                    | May 2023       | [Recording](https://techstrong.tv/videos/oss-north-america-2023/fatih-degirmenci-cd-foundation-andrea-frittoli-ibm-oss-north-america-2023)
+| The CD Pipeline: Continuous Delivery and the End User Community  | Techstrong TV & CDF              | April 2023     | [Recording](https://techstrong.tv/videos/cd-pipeline/continuous-delivery-and-the-end-user-community-the-cd-pipeline-ep-5)
+| The CD Pipeline: Interoperability Challenges and Solutions       | Techstrong TV & CDF              | February 2023  | [Recording](https://techstrong.tv/videos/cd-pipeline/interoperability-challenges-and-solutions-the-cd-pipeline-ep-4)
 | Pulling the Strings: The Future of Platform Engineering          | Puppet Podcast                   | January 2023   | [Podcast](https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering)
 | The Future of Continuous Delivery                                | Cloud Native Turkiye & Kubernetes| December 2022  | [Recording](https://www.youtube.com/watch?v=X2tr9JE_R3s)
 | Continuous Delivery Foundation                                   | CDF Meetup                       | October 2022   | [Recording](https://www.youtube.com/watch?v=Z4A1k1iWDTw)
