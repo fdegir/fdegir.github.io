@@ -5,11 +5,20 @@ categories: about
 permalink: /about/
 ---
 
-I am a technologist with a track record of over 15 years in infrastructure, CI/CD, DevOps, and platforms.
-I have a big passion for developer productivity and experience and I contributed to many efforts both in corporate settings as well as in open source communities in order to empower developers to focus value adding activities and decrease the congnitive load on them.
+I am a technologist with a track record of over 20 years in infrastructure, CI/CD, DevOps, QA, and platforms.
+I have a big passion for developer experience and productivity and I contributed to many efforts both in corporate
+settings as well as in open source communities to empower developers and reduce the cognitive load on them so they
+focus on value adding activities.
 
-In the past, I worked as the Executive Director of [the Continuous Delivery Foundation](https://cd.foundation/) (CDF) at [the Linux Foundation](https://www.linuxfoundation.org/), leading CDF's efforts to increase the cross industry and cross community collaboration and push the CI/CD domain forward.
-Before the Continuous Delivery Foundation, I worked as a Principal Developer at [Ericsson](https://www.ericsson.com/en) and I was involved in several large scale CI/CD initiatives within Ericsson and across open source.
+I currently work as the Senior Manager, Core Platforms and Edge QE at SUSE, leading an awesome team of engineers
+and owning the QA, CI/CD, and Infrastructure strategy for the organization.
+
+In the past, I worked as the Executive Director of [the Continuous Delivery Foundation](https://cd.foundation/) (CDF)
+at [the Linux Foundation](https://www.linuxfoundation.org/), leading CDF's efforts to increase the cross industry and
+cross community collaboration and push the CI/CD domain forward.
+
+Before the Continuous Delivery Foundation, I worked as a Principal Developer at [Ericsson](https://www.ericsson.com/en)
+and I was involved in several large scale CI/CD initiatives within Ericsson and across open source.
 
 I actively contribute to various open source projects as member of committees, team lead, and maintainer.
 I served as a committer-at-large member in [OPNFV](https://www.opnfv.org) Technical Steering Committee (TSC),
@@ -136,15 +145,17 @@ part of and articles and blog posts I contributed to.
 
 | What                                 | Where
 | :---                                 | :---
+| Co-chair of the Program Committee    | [CNCF-hosted Co-located Events, KubeCon | CloudNativeCon North America 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/about-co-located-events/)
+| Member of the Program Committee      | [Platform Engineering Day, KubeCon | CloudNativeCon North America 2024](https://events.linuxfoundation.org/archive/2024/kubecon-cloudnativecon-north-america/co-located-events/platform-engineering-day/)
 | CI/CD Devroom Contributor            | [FOSDEM 2023 CI/CD Devroom](https://fosdem.org/2023/schedule/track/continuous_integration_and_continuous_deployment/)
 | Track Chair, CI/CD                   | [OpenInfra Summit Berlin, 2022](https://openinfra.dev/summit/)
 | CI/CD Devroom Contributor            | [FOSDEM 2022 CI/CD Devroom](https://fosdem.org/2022/schedule/track/continuous_integration_and_continuous_deployment/)
 | CI/CD Devroom Moderator              | [FOSDEM 2021 CI/CD Devroom](https://fosdem.org/2021/schedule/track/continuous_integration_and_continuous_deployment/)
-| Program Committee                    | [Continuous Delivery Summit, KubeCon Europe, 2020](https://events.linuxfoundation.org/continuous-delivery-summit/)
-| Program Committee                    | [Continuous Delivery Summit, KubeCon North America, 2019](https://cd.foundation/announcement/2019/09/30/join-us-at-continuous-delivery-summit/)
+| Member of the Program Committee      | [Continuous Delivery Summit, KubeCon | CloudNativeCon Europe, 2020](https://events.linuxfoundation.org/continuous-delivery-summit/)
+| Member of the Program Committee      | [Continuous Delivery Summit, KubeCon | CloudNativeCon North America, 2019](https://cd.foundation/announcement/2019/09/30/join-us-at-continuous-delivery-summit/)
 | Track Chair, CI/CD                   | [Open Infrastructure Summit Denver, 2019](https://www.openstack.org/summit/denver-2019/)
 | Track Chair, CI/CD                   | [OpenStack Summit Berlin, 2018](https://www.openstack.org/summit/berlin-2018/)
-| Member of the Programming Committee  | [OpenDev, 2018](http://www.opendevconf.com/)
+| Member of the Program Committee  | [OpenDev, 2018](http://www.opendevconf.com/)
 | Track Chair, Infrastructure & DevOps | [OPNFV Summit Beijing, 2017](https://www.opnfv.org/opnfv-summit-2017-event-recap)
 | Track Chair, NFV                     | [OpenStack Summit Boston, 2017](https://www.openstack.org/summit/boston-2017/)
 | MSc Thesis Supervisor                | [Investigating the Possibility of an Active/Active Highly Available Jenkins](https://www.diva-portal.org/smash/get/diva2:647472/FULLTEXT01.pdf)
