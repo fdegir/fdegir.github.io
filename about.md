@@ -145,14 +145,14 @@ part of and articles and blog posts I contributed to.
 
 | What                                 | Where
 | :---                                 | :---
-| Co-chair of the Program Committee    | [CNCF-hosted Co-located Events, KubeCon | CloudNativeCon North America 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/about-co-located-events/)
-| Member of the Program Committee      | [Platform Engineering Day, KubeCon | CloudNativeCon North America 2024](https://events.linuxfoundation.org/archive/2024/kubecon-cloudnativecon-north-america/co-located-events/platform-engineering-day/)
+| Co-chair of the Program Committee    | [CNCF-hosted Co-located Events, KubeCon + CloudNativeCon North America 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/about-co-located-events/)
+| Member of the Program Committee      | [Platform Engineering Day, KubeCon + CloudNativeCon North America 2024](https://events.linuxfoundation.org/archive/2024/kubecon-cloudnativecon-north-america/co-located-events/platform-engineering-day/)
 | CI/CD Devroom Contributor            | [FOSDEM 2023 CI/CD Devroom](https://fosdem.org/2023/schedule/track/continuous_integration_and_continuous_deployment/)
 | Track Chair, CI/CD                   | [OpenInfra Summit Berlin, 2022](https://openinfra.dev/summit/)
 | CI/CD Devroom Contributor            | [FOSDEM 2022 CI/CD Devroom](https://fosdem.org/2022/schedule/track/continuous_integration_and_continuous_deployment/)
 | CI/CD Devroom Moderator              | [FOSDEM 2021 CI/CD Devroom](https://fosdem.org/2021/schedule/track/continuous_integration_and_continuous_deployment/)
-| Member of the Program Committee      | [Continuous Delivery Summit, KubeCon | CloudNativeCon Europe, 2020](https://events.linuxfoundation.org/continuous-delivery-summit/)
-| Member of the Program Committee      | [Continuous Delivery Summit, KubeCon | CloudNativeCon North America, 2019](https://cd.foundation/announcement/2019/09/30/join-us-at-continuous-delivery-summit/)
+| Member of the Program Committee      | [Continuous Delivery Summit, KubeCon + CloudNativeCon Europe, 2020](https://events.linuxfoundation.org/continuous-delivery-summit/)
+| Member of the Program Committee      | [Continuous Delivery Summit, KubeCon + CloudNativeCon North America, 2019](https://cd.foundation/announcement/2019/09/30/join-us-at-continuous-delivery-summit/)
 | Track Chair, CI/CD                   | [Open Infrastructure Summit Denver, 2019](https://www.openstack.org/summit/denver-2019/)
 | Track Chair, CI/CD                   | [OpenStack Summit Berlin, 2018](https://www.openstack.org/summit/berlin-2018/)
 | Member of the Program Committee  | [OpenDev, 2018](http://www.opendevconf.com/)
